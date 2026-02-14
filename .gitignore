@@ -2,6 +2,6 @@
 .idea/
 local.properties
 *.iml
-#build/
+build/
 captures/
 *.zip
