@@ -1,0 +1,2335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nubia_months_full">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+    <array name="nubia_months_short">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nove</item>
+        <item>Dec</item>
+    </array>
+    <array name="nubia_weeks_full">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </array>
+    <array name="nubia_weeks_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </array>
+    <attr format="reference" name="actionBarDivider">
+    </attr>
+    <attr format="reference" name="actionBarItemBackground">
+    </attr>
+    <attr format="reference" name="actionBarPopupTheme">
+    </attr>
+    <attr format="reference" name="actionBarSplitStyle">
+    </attr>
+    <attr format="reference" name="actionBarStyle">
+    </attr>
+    <attr format="reference" name="actionBarTabBarStyle">
+    </attr>
+    <attr format="reference" name="actionBarTabStyle">
+    </attr>
+    <attr format="reference" name="actionBarTabTextStyle">
+    </attr>
+    <attr format="reference" name="actionBarTheme">
+    </attr>
+    <attr format="reference|color" name="actionBarTittleColor">
+    </attr>
+    <attr format="reference" name="actionBarWidgetTheme">
+    </attr>
+    <attr format="reference" name="actionButtonStyle">
+    </attr>
+    <attr format="reference" name="actionDropDownStyle">
+    </attr>
+    <attr format="reference" name="actionLayout">
+    </attr>
+    <attr format="reference" name="actionMenuTextAppearance">
+    </attr>
+    <attr format="reference|color" name="actionMenuTextColor">
+    </attr>
+    <attr format="reference" name="actionModeBackground">
+    </attr>
+    <attr format="reference" name="actionModeCloseButtonStyle">
+    </attr>
+    <attr format="reference" name="actionModeCloseDrawable">
+    </attr>
+    <attr format="reference|color" name="actionModeCloseTextColor">
+    </attr>
+    <attr format="reference" name="actionModeCopyDrawable">
+    </attr>
+    <attr format="reference" name="actionModeCutDrawable">
+    </attr>
+    <attr format="reference" name="actionModeFindDrawable">
+    </attr>
+    <attr format="reference" name="actionModePasteDrawable">
+    </attr>
+    <attr format="reference" name="actionModePopupWindowStyle">
+    </attr>
+    <attr format="reference" name="actionModeSelectAllDrawable">
+    </attr>
+    <attr format="reference" name="actionModeShareDrawable">
+    </attr>
+    <attr format="reference" name="actionModeSplitBackground">
+    </attr>
+    <attr format="reference" name="actionModeStyle">
+    </attr>
+    <attr format="reference" name="actionModeTextButtonBackground">
+    </attr>
+    <attr format="reference" name="actionModeWebSearchDrawable">
+    </attr>
+    <attr format="reference" name="actionOverflowButtonStyle">
+    </attr>
+    <attr format="reference" name="actionOverflowMenuStyle">
+    </attr>
+    <attr format="string" name="actionProviderClass">
+    </attr>
+    <attr format="reference" name="activityChooserViewStyle">
+    </attr>
+    <attr format="boolean" name="alertDialogCenterButtons">
+    </attr>
+    <attr format="reference" name="alertDialogTitleTextAppearance">
+    </attr>
+    <attr format="reference" name="background">
+    </attr>
+    <attr format="reference|color" name="backgroundSplit">
+    </attr>
+    <attr format="reference|color" name="backgroundStacked">
+    </attr>
+    <attr format="color" name="backgroundTint">
+    </attr>
+    <attr format="dimension" name="barSize">
+    </attr>
+    <attr format="boolean" name="barrierAllowsGoneWidgets"/>
+    <attr format="enum" name="barrierDirection">
+        <enum name="left" value="0"/>
+        <enum name="right" value="1"/>
+        <enum name="top" value="2"/>
+        <enum name="bottom" value="3"/>
+        <enum name="start" value="5"/>
+        <enum name="end" value="6"/>
+    </attr>
+    <attr format="reference" name="buttonBackground">
+    </attr>
+    <attr format="reference" name="buttonBarButtonStyle">
+    </attr>
+    <attr format="reference" name="buttonBarStyle">
+    </attr>
+    <attr format="reference" name="buttonLeftBackground">
+    </attr>
+    <attr format="reference" name="buttonMiddleBackground">
+    </attr>
+    <attr format="reference" name="buttonRightBackground">
+    </attr>
+    <attr format="reference|color" name="capsuleBackgroundLeft">
+    </attr>
+    <attr format="reference|color" name="capsuleBackgroundMid">
+    </attr>
+    <attr format="reference|color" name="capsuleBackgroundRight">
+    </attr>
+    <attr format="reference" name="capsuleButtonStyle">
+    </attr>
+    <attr format="reference|color" name="capsuleNormalTextColor">
+    </attr>
+    <attr format="reference|color" name="capsuleSelectedTextColor">
+    </attr>
+    <attr format="boolean" name="chainUseRtl"/>
+    <attr format="reference" name="circleProgressBarStyle">
+    </attr>
+    <attr format="reference" name="circleProgressBarStyleLarge">
+    </attr>
+    <attr format="reference" name="closeIcon">
+    </attr>
+    <attr format="reference" name="closeItemLayout">
+    </attr>
+    <attr format="string" name="collapseContentDescription">
+    </attr>
+    <attr format="reference" name="collapseIcon">
+    </attr>
+    <attr format="color" name="color">
+    </attr>
+    <attr format="color" name="colorAccent">
+    </attr>
+    <attr format="color" name="colorActivatedBlue">
+    </attr>
+    <attr format="color" name="colorActivatedGreen">
+    </attr>
+    <attr format="color" name="colorActivatedRed">
+    </attr>
+    <attr format="color" name="colorActivatedYellow">
+    </attr>
+    <attr format="color" name="colorButtonNormal">
+    </attr>
+    <attr format="color" name="colorControlActivated">
+    </attr>
+    <attr format="color" name="colorControlDisabled">
+    </attr>
+    <attr format="color" name="colorControlDisabledDark">
+    </attr>
+    <attr format="color" name="colorControlHighlight">
+    </attr>
+    <attr format="color" name="colorControlNormal">
+    </attr>
+    <attr format="color" name="colorControlNormalDark">
+    </attr>
+    <attr format="color" name="colorControlNormalDarkSelectAll">
+    </attr>
+    <attr format="color" name="colorControlNormalSecondary">
+    </attr>
+    <attr format="color" name="colorControlNormalSecondaryDark">
+    </attr>
+    <attr format="color" name="colorPrimary">
+    </attr>
+    <attr format="color" name="colorPrimaryDark">
+    </attr>
+    <attr format="color" name="colorSwitchThumbNormal">
+    </attr>
+    <attr format="reference" name="constraintSet">
+    </attr>
+    <attr format="string" name="constraint_referenced_ids"/>
+    <attr format="reference" name="content"/>
+    <attr format="dimension" name="contentInsetEnd">
+    </attr>
+    <attr format="dimension" name="contentInsetLeft">
+    </attr>
+    <attr format="dimension" name="contentInsetRight">
+    </attr>
+    <attr format="dimension" name="contentInsetStart">
+    </attr>
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <attr format="reference" name="customNavigationLayout">
+    </attr>
+    <attr format="reference" name="dialogActiviyInAnim">
+    </attr>
+    <attr format="reference" name="dialogActiviyOutAnim">
+    </attr>
+    <attr format="reference|color" name="dialogButtonTextColor">
+    </attr>
+    <attr format="dimension" name="dialogPreferredPadding">
+    </attr>
+    <attr format="reference" name="dialogTheme">
+    </attr>
+    <attr format="boolean" name="disableChildrenWhenDisabled">
+    </attr>
+    <attr format="float" name="disabledActivatedAlpha">
+    </attr>
+    <attr format="reference" name="divider">
+    </attr>
+    <attr format="reference" name="dividerHorizontal">
+    </attr>
+    <attr format="dimension" name="dividerPadding">
+    </attr>
+    <attr format="reference" name="dividerVertical">
+    </attr>
+    <attr format="string" name="draggedText">
+    </attr>
+    <attr format="dimension" name="drawableSize">
+    </attr>
+    <attr format="reference" name="drawerArrowStyle">
+    </attr>
+    <attr format="reference" name="dropDownListViewStyle">
+    </attr>
+    <attr format="dimension" name="dropdownListPreferredItemHeight">
+    </attr>
+    <attr format="reference" name="editTextBackground">
+    </attr>
+    <attr format="reference|color" name="editTextColor">
+    </attr>
+    <attr format="dimension" name="elevation">
+    </attr>
+    <attr format="color" name="emptyColor">
+    </attr>
+    <attr name="emptyVisibility">
+        <enum name="gone" value="0"/>
+        <enum name="invisible" value="1"/>
+    </attr>
+    <attr format="reference" name="expandActivityOverflowButtonDrawable">
+    </attr>
+    <attr format="reference|color" name="fakeStatusBarBackground">
+    </attr>
+    <attr format="boolean" name="focusable">
+    </attr>
+    <attr format="dimension" name="gapBetweenBars">
+    </attr>
+    <attr format="reference" name="goIcon">
+    </attr>
+    <attr format="dimension" name="height">
+    </attr>
+    <attr format="boolean" name="hideCloseItem">
+    </attr>
+    <attr format="boolean" name="hideOnContentScroll">
+    </attr>
+    <attr format="dimension" name="hintMarginTop">
+    </attr>
+    <attr format="reference" name="homeAsUpIndicator">
+    </attr>
+    <attr format="reference" name="homeLayout">
+    </attr>
+    <attr format="reference" name="icon">
+    </attr>
+    <attr format="boolean" name="iconifiedByDefault">
+    </attr>
+    <attr format="integer" name="imeOptions">
+    </attr>
+    <attr format="reference" name="indeterminateProgressStyle">
+    </attr>
+    <attr format="string" name="initialActivityCount">
+    </attr>
+    <attr format="integer" name="inputType">
+    </attr>
+    <attr format="boolean" name="isHideActionBarTitle">
+    </attr>
+    <attr format="boolean" name="isLightTheme">
+    </attr>
+    <attr format="boolean" name="isNubiaStyle">
+    </attr>
+    <attr format="dimension" name="itemPadding">
+    </attr>
+    <attr format="reference" name="layout">
+    </attr>
+    <attr format="boolean" name="layout_constrainedHeight"/>
+    <attr format="boolean" name="layout_constrainedWidth"/>
+    <attr format="integer" name="layout_constraintBaseline_creator">
+    </attr>
+    <attr format="reference" name="layout_constraintBaseline_toBaselineOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="integer" name="layout_constraintBottom_creator">
+    </attr>
+    <attr format="reference" name="layout_constraintBottom_toBottomOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintBottom_toTopOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintCircle"/>
+    <attr format="integer" name="layout_constraintCircleAngle"/>
+    <attr format="dimension" name="layout_constraintCircleRadius"/>
+    <attr format="string" name="layout_constraintDimensionRatio">
+    </attr>
+    <attr format="reference" name="layout_constraintEnd_toEndOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintEnd_toStartOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="dimension" name="layout_constraintGuide_begin">
+    </attr>
+    <attr format="dimension" name="layout_constraintGuide_end">
+    </attr>
+    <attr format="float" name="layout_constraintGuide_percent">
+    </attr>
+    <attr name="layout_constraintHeight_default">
+        <enum name="spread" value="0"/>
+        <enum name="wrap" value="1"/>
+    </attr>
+    <attr format="dimension" name="layout_constraintHeight_max">
+    </attr>
+    <attr format="dimension" name="layout_constraintHeight_min">
+    </attr>
+    <attr format="float" name="layout_constraintHeight_percent"/>
+    <attr format="float" name="layout_constraintHorizontal_bias">
+    </attr>
+    <attr name="layout_constraintHorizontal_chainStyle">
+        <enum name="spread" value="0"/>
+        <enum name="packed" value="2"/>
+        <enum name="spread_inside" value="1"/>
+    </attr>
+    <attr format="float" name="layout_constraintHorizontal_weight">
+    </attr>
+    <attr format="integer" name="layout_constraintLeft_creator">
+    </attr>
+    <attr format="reference" name="layout_constraintLeft_toLeftOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintLeft_toRightOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="integer" name="layout_constraintRight_creator">
+    </attr>
+    <attr format="reference" name="layout_constraintRight_toLeftOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintRight_toRightOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintStart_toEndOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintStart_toStartOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="integer" name="layout_constraintTop_creator">
+    </attr>
+    <attr format="reference" name="layout_constraintTop_toBottomOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="reference" name="layout_constraintTop_toTopOf">
+        <enum name="parent" value="0"/>
+    </attr>
+    <attr format="float" name="layout_constraintVertical_bias">
+    </attr>
+    <attr name="layout_constraintVertical_chainStyle">
+        <enum name="spread" value="0"/>
+        <enum name="packed" value="2"/>
+        <enum name="spread_inside" value="1"/>
+    </attr>
+    <attr format="float" name="layout_constraintVertical_weight">
+    </attr>
+    <attr name="layout_constraintWidth_default">
+        <enum name="spread" value="0"/>
+        <enum name="wrap" value="1"/>
+    </attr>
+    <attr format="dimension" name="layout_constraintWidth_max">
+    </attr>
+    <attr format="dimension" name="layout_constraintWidth_min">
+    </attr>
+    <attr format="float" name="layout_constraintWidth_percent"/>
+    <attr format="dimension" name="layout_editor_absoluteX">
+    </attr>
+    <attr format="dimension" name="layout_editor_absoluteY">
+    </attr>
+    <attr format="dimension" name="layout_goneMarginBottom">
+    </attr>
+    <attr format="dimension" name="layout_goneMarginEnd">
+    </attr>
+    <attr format="dimension" name="layout_goneMarginLeft">
+    </attr>
+    <attr format="dimension" name="layout_goneMarginRight">
+    </attr>
+    <attr format="dimension" name="layout_goneMarginStart">
+    </attr>
+    <attr format="dimension" name="layout_goneMarginTop">
+    </attr>
+    <attr name="layout_optimizationLevel">
+        <flag name="all" value="2"/>
+        <flag name="basic" value="4"/>
+        <flag name="chains" value="8"/>
+        <flag name="none" value="1"/>
+    </attr>
+    <attr format="dimension" name="layout_padding">
+    </attr>
+    <attr format="reference" name="listChoiceBackgroundIndicator">
+    </attr>
+    <attr format="reference" name="listPopupWindowStyle">
+    </attr>
+    <attr format="dimension" name="listPreferredItemHeight">
+    </attr>
+    <attr format="dimension" name="listPreferredItemHeightLarge">
+    </attr>
+    <attr format="dimension" name="listPreferredItemHeightSmall">
+    </attr>
+    <attr format="dimension" name="listPreferredItemHeightSmallSecondary">
+    </attr>
+    <attr format="dimension" name="listPreferredItemPaddingBottom">
+    </attr>
+    <attr format="dimension" name="listPreferredItemPaddingLeft">
+    </attr>
+    <attr format="dimension" name="listPreferredItemPaddingRight">
+    </attr>
+    <attr format="dimension" name="listPreferredItemPaddingTop">
+    </attr>
+    <attr format="dimension" name="listPreferredItemSpace">
+    </attr>
+    <attr format="reference" name="logo">
+    </attr>
+    <attr format="dimension" name="maxButtonHeight">
+    </attr>
+    <attr format="reference|float" name="maxHeightRatio">
+    </attr>
+    <attr format="integer" name="maxProgressNubia">
+    </attr>
+    <attr format="dimension" name="maxWidth">
+    </attr>
+    <attr format="boolean" name="measureWithLargestChild">
+    </attr>
+    <attr format="reference" name="menuItemBackground">
+    </attr>
+    <attr format="reference" name="menuItemBottomStyle">
+    </attr>
+    <attr format="dimension" name="middleBarArrowSize">
+    </attr>
+    <attr format="string" name="navigationContentDescription">
+    </attr>
+    <attr format="reference" name="navigationIcon">
+    </attr>
+    <attr format="boolean" name="nubiaBottomCloseItem">
+    </attr>
+    <attr format="boolean" name="nubiaBottomSelectItem">
+    </attr>
+    <attr format="reference" name="nubiaPagerTabStyle">
+    </attr>
+    <attr format="reference" name="nubiaPreferenceFragmentStyle">
+    </attr>
+    <attr format="reference" name="nubiaSearchViewStyle">
+    </attr>
+    <attr format="reference" name="nubiaSelectAllStyle">
+    </attr>
+    <attr format="reference" name="nubiaSwitchStyle">
+    </attr>
+    <attr format="boolean" name="overlapAnchor">
+    </attr>
+    <attr format="dimension" name="paddingEnd">
+    </attr>
+    <attr format="dimension" name="paddingStart">
+    </attr>
+    <attr format="reference" name="panelBackground">
+    </attr>
+    <attr format="reference" name="panelMenuListTheme">
+    </attr>
+    <attr format="dimension" name="panelMenuListWidth">
+    </attr>
+    <attr format="dimension" name="pausedDistance">
+    </attr>
+    <attr format="reference" name="popupMenuStyle">
+    </attr>
+    <attr format="reference" name="popupPromptView">
+    </attr>
+    <attr format="reference" name="popupTheme">
+    </attr>
+    <attr format="reference" name="popupWindowStyle">
+    </attr>
+    <attr format="color" name="preferenceCategoryTextColor">
+    </attr>
+    <attr format="dimension" name="preferenceCategoryTextSize">
+    </attr>
+    <attr format="reference" name="preferenceRightArrow">
+    </attr>
+    <attr format="boolean" name="preserveIconSpacing">
+    </attr>
+    <attr format="dimension" name="progressBarPadding">
+    </attr>
+    <attr format="reference" name="progressBarStyle">
+    </attr>
+    <attr format="dimension" name="progressCircleRadius">
+    </attr>
+    <attr format="dimension" name="progressCircleSize">
+    </attr>
+    <attr format="integer" name="progressNubia">
+    </attr>
+    <attr format="color" name="progressReachedColor">
+    </attr>
+    <attr format="color" name="progressTextColor">
+    </attr>
+    <attr format="dimension" name="progressTextSize">
+    </attr>
+    <attr format="color" name="progressUnreachedColor">
+    </attr>
+    <attr format="reference" name="prompt">
+    </attr>
+    <attr format="reference" name="queryBackground">
+    </attr>
+    <attr format="string" name="queryHint">
+    </attr>
+    <attr format="reference" name="recyclerViewStyle"/>
+    <attr format="reference" name="searchIcon">
+    </attr>
+    <attr format="reference" name="searchViewStyle">
+    </attr>
+    <attr format="reference" name="seekbarBackgroundColor">
+    </attr>
+    <attr format="reference" name="selectAllBackground">
+    </attr>
+    <attr format="reference" name="selectableItemBackground">
+    </attr>
+    <attr format="reference" name="selectableItemBackgroundBorderless">
+    </attr>
+    <attr format="reference" name="shadowDivider">
+    </attr>
+    <attr format="boolean" name="showText">
+    </attr>
+    <attr format="boolean" name="spinBars">
+    </attr>
+    <attr format="reference" name="spinnerDropDownItemStyle">
+    </attr>
+    <attr name="spinnerMode">
+        <enum name="dialog" value="0"/>
+        <enum name="dropdown" value="1"/>
+    </attr>
+    <attr format="reference" name="spinnerStyle">
+    </attr>
+    <attr format="boolean" name="splitTrack">
+    </attr>
+    <attr format="boolean" name="state_above_anchor">
+    </attr>
+    <attr format="reference" name="submitBackground">
+    </attr>
+    <attr format="string" name="subtitle">
+    </attr>
+    <attr format="reference" name="subtitleTextAppearance">
+    </attr>
+    <attr format="reference" name="subtitleTextStyle">
+    </attr>
+    <attr format="dimension" name="switchMinHight">
+    </attr>
+    <attr format="dimension" name="switchMinWidth">
+    </attr>
+    <attr format="dimension" name="switchPadding">
+    </attr>
+    <attr format="reference" name="switchStyle">
+    </attr>
+    <attr format="reference" name="switchTextAppearance">
+    </attr>
+    <attr format="reference|color" name="tabActivatedColor">
+    </attr>
+    <attr format="reference" name="tabIndicator">
+    </attr>
+    <attr format="reference" name="tabIndicatorTriangle">
+    </attr>
+    <attr format="dimension" name="tabLabelWidth">
+    </attr>
+    <attr format="reference|color" name="tabNormalColor">
+    </attr>
+    <attr format="dimension" name="tabTextSize">
+    </attr>
+    <attr format="reference|boolean" name="textAllCaps">
+    </attr>
+    <attr format="reference" name="textAppearanceExtraLarge">
+    </attr>
+    <attr format="reference" name="textAppearanceExtraSmall">
+    </attr>
+    <attr format="reference" name="textAppearanceLargePopupMenu">
+    </attr>
+    <attr format="reference" name="textAppearanceListItem">
+    </attr>
+    <attr format="reference" name="textAppearanceListItemSmall">
+    </attr>
+    <attr format="reference" name="textAppearanceSearchResultSubtitle">
+    </attr>
+    <attr format="reference" name="textAppearanceSearchResultTitle">
+    </attr>
+    <attr format="reference" name="textAppearanceSmallPopupMenu">
+    </attr>
+    <attr format="color" name="textColor">
+    </attr>
+    <attr format="color" name="textColorGreen">
+    </attr>
+    <attr format="color" name="textColorRed">
+    </attr>
+    <attr format="reference|color" name="textColorSearchUrl">
+    </attr>
+    <attr format="string" name="textOff">
+    </attr>
+    <attr format="string" name="textOn">
+    </attr>
+    <attr format="dimension" name="textSize">
+    </attr>
+    <attr format="reference" name="theme">
+    </attr>
+    <attr format="dimension" name="thickness">
+    </attr>
+    <attr format="reference" name="throughDivider">
+    </attr>
+    <attr format="reference" name="thumb">
+    </attr>
+    <attr format="dimension" name="thumbTextPadding">
+    </attr>
+    <attr format="string" name="title">
+    </attr>
+    <attr format="reference" name="titleBackgroundWithLine">
+    </attr>
+    <attr format="dimension" name="titleMarginBottom">
+    </attr>
+    <attr format="dimension" name="titleMarginEnd">
+    </attr>
+    <attr format="dimension" name="titleMarginStart">
+    </attr>
+    <attr format="dimension" name="titleMarginTop">
+    </attr>
+    <attr format="dimension" name="titleMargins">
+    </attr>
+    <attr format="reference" name="titleTextAppearance">
+    </attr>
+    <attr format="reference" name="titleTextStyle">
+    </attr>
+    <attr format="reference" name="toolbarNavigationButtonStyle">
+    </attr>
+    <attr format="reference" name="toolbarStyle">
+    </attr>
+    <attr format="dimension" name="topBottomBarArrowSize">
+    </attr>
+    <attr format="reference" name="track">
+    </attr>
+    <attr format="boolean" name="windowActionBar">
+    </attr>
+    <attr format="boolean" name="windowActionBarOverlay">
+    </attr>
+    <attr format="boolean" name="windowActionModeOverlay">
+    </attr>
+    <attr format="dimension|fraction" name="windowFixedHeightMajor">
+    </attr>
+    <attr format="dimension|fraction" name="windowFixedHeightMinor">
+    </attr>
+    <attr format="dimension|fraction" name="windowFixedWidthMajor">
+    </attr>
+    <attr format="dimension|fraction" name="windowFixedWidthMinor">
+    </attr>
+    <attr format="boolean" name="windowNoTitle">
+    </attr>
+    <bool name="action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="nubia_config_closeDialogWhenTouchOutside">true</bool>
+    <bool name="nubia_statusbar_text_color">true</bool>
+    <color name="abc_input_method_navigation_guard">@android:color/black</color>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <color name="accent_material_dark">@color/material_deep_teal_200</color>
+    <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="background_floating_material_dark">#ff424242</color>
+    <color name="background_floating_material_light">#ffeeeeee</color>
+    <color name="background_material_dark">#ff303030</color>
+    <color name="background_material_light">#ffeeeeee</color>
+    <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color name="bright_foreground_disabled_material_light">#80000000</color>
+    <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+    <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="color_halo_alpha">#ff1bb6d2</color>
+    <color name="color_halo_default">#ff00fdfe</color>
+    <color name="dialog_text_color">#ff000000</color>
+    <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+    <color name="dim_foreground_disabled_material_light">#80323232</color>
+    <color name="dim_foreground_material_dark">#ffbebebe</color>
+    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="divider_color">#26ffffff</color>
+    <color name="divider_line_color">#1a000000</color>
+    <color name="gamespace_background_color">#ff0a0b12</color>
+    <color name="gamespace_item_name_color">#ffffffff</color>
+    <color name="gamespace_start_game_color">#b2ffffff</color>
+    <color name="gamespace_summary_color">#80ffffff</color>
+    <color name="gamespace_title_color">#85ffffff</color>
+    <color name="gamespace_title_color_sub">#50ffffff</color>
+    <color name="handle_bluetooth_connect">#ffffffff</color>
+    <color name="handle_bluetooth_search_dialog_title">#80000000</color>
+    <color name="handle_bluetooth_search_no_device">#e6000000</color>
+    <color name="handle_bluetooth_searching">#50000000</color>
+    <color name="handle_calibration">#4dffffff</color>
+    <color name="handle_calibration_countdown_text">#80000000</color>
+    <color name="handle_calibration_dialog_title">#ff000000</color>
+    <color name="handle_calibration_explain">#80000000</color>
+    <color name="handle_choose_text">#80000000</color>
+    <color name="handle_conn_ing">#4d000000</color>
+    <color name="handle_device_name">#4dffffff</color>
+    <color name="handle_device_name_connected">#ffffffff</color>
+    <color name="handle_dividing_line">#ffe6e6e6</color>
+    <color name="handle_left_right_confirm_color">#85ffffff</color>
+    <color name="handle_left_right_describe_color">#85ffffff</color>
+    <color name="handle_line_once">#1fffffff</color>
+    <color name="handle_list_name">#e6000000</color>
+    <color name="handle_rest_charge">#ffffffff</color>
+    <color name="handle_text_default_color">#4dffffff</color>
+    <color name="handle_white">#ffffffff</color>
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
+    <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
+    <color name="link_text_material_dark">@color/material_deep_teal_200</color>
+    <color name="link_text_material_light">@color/material_deep_teal_500</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="nubia_actionbar_title_blureffect_color">#ffffffff</color>
+    <color name="nubia_activated_blue">#ff26a9eb</color>
+    <color name="nubia_activated_green">#ff2cb13f</color>
+    <color name="nubia_activated_red">#ff2cb13f</color>
+    <color name="nubia_activated_yellow">#ffffc20d</color>
+    <color name="nubia_alert_dialog_list_item_color_checked">#fff44234</color>
+    <color name="nubia_background_green">#ff2cb13f</color>
+    <color name="nubia_background_red">#fff25252</color>
+    <color name="nubia_button_text_color_ok">#fff44234</color>
+    <color name="nubia_button_text_color_primary">#ff000000</color>
+    <color name="nubia_card1_activated_color">#ff49cc3d</color>
+    <color name="nubia_card2_activated_color">#ff00bfff</color>
+    <color name="nubia_card_invalidated_color">#42000000</color>
+    <color name="nubia_center_alert_dialog_title_color">#ff000000</color>
+    <color name="nubia_character_list_view_background">@android:color/transparent</color>
+    <color name="nubia_character_normal_color">#ff606080</color>
+    <color name="nubia_character_pressed_highlight_color">#91000000</color>
+    <color name="nubia_character_pressed_selected_color">@color/nubia_white</color>
+    <color name="nubia_character_released_selected_color">#ff07a723</color>
+    <color name="nubia_circle_progress_reached_color">#ff29a33d</color>
+    <color name="nubia_circle_progress_unreached_color">#d8d8d8</color>
+    <color name="nubia_dark">#ff000000</color>
+    <color name="nubia_dialog_alpha_from_color">#00000000</color>
+    <color name="nubia_dialog_alpha_to_color">#42000000</color>
+    <color name="nubia_dialog_choice_title_text_color">#80000000</color>
+    <color name="nubia_dialog_message_text_color">#80000000</color>
+    <color name="nubia_dialog_title_text_color">#ff000000</color>
+    <color name="nubia_disabled_light">#19000000</color>
+    <color name="nubia_double_cardview_divider_color">#20000000</color>
+    <color name="nubia_empty_color">#8a000000</color>
+    <color name="nubia_emptyview_text_color">#4d000000</color>
+    <color name="nubia_fab_pressed_color">#14000000</color>
+    <color name="nubia_hint_foreground_holo_light">#4a000000</color>
+    <color name="nubia_holo_dark_blue_light">#ff002dcc</color>
+    <color name="nubia_ic_ab_back_color">#ff000000</color>
+    <color name="nubia_link_text_material">#ff2cb13f</color>
+    <color name="nubia_more_popup_mask_background">#9a000000</color>
+    <color name="nubia_normal_light">#ad000000</color>
+    <color name="nubia_normal_secondary_light">#42000000</color>
+    <color name="nubia_preference_disabled_light">#0a000000</color>
+    <color name="nubia_primary_text_default_material_dark">#e6ffffff</color>
+    <color name="nubia_primary_text_default_material_light">#e6000000</color>
+    <color name="nubia_progress_dialog_text_color">#ffffffff</color>
+    <color name="nubia_ripple_color_gray">#ff646464</color>
+    <color name="nubia_ripple_material_light">#40000000</color>
+    <color name="nubia_screen_background_light">#ffffffff</color>
+    <color name="nubia_scrubber_progress_horizontal_material_color">#42000000</color>
+    <color name="nubia_search_icon_clear">#606060</color>
+    <color name="nubia_search_view_cancel_text_color_normal">#fff44234</color>
+    <color name="nubia_search_view_mask_color">#ffffffff</color>
+    <color name="nubia_secondary_text_default_material_dark">#4dffffff</color>
+    <color name="nubia_secondary_text_default_material_light">#4d000000</color>
+    <color name="nubia_seekbar_background_default_color">#19000000</color>
+    <color name="nubia_status_bar_color">#ffffff</color>
+    <color name="nubia_subprime_text_default_material_dark">#80ffffff</color>
+    <color name="nubia_subprime_text_default_material_light">#80000000</color>
+    <color name="nubia_tab_activated_red">#fff44234</color>
+    <color name="nubia_tab_normal_color">#ff666680</color>
+    <color name="nubia_text_color_pressed">#4c000000</color>
+    <color name="nubia_textview_highlight_color">#fff44234</color>
+    <color name="nubia_transient_nofitication_text_color">#ffffffff</color>
+    <color name="nubia_wheelview_middle_zone_color">#fff2f2f2</color>
+    <color name="nubia_wheelview_text_color">#ff000000</color>
+    <color name="nubia_white">#ffffffff</color>
+    <color name="preference_fallback_accent_color">#ff80cbc4</color>
+    <color name="primary_dark_material_dark">#ff000000</color>
+    <color name="primary_dark_material_light">#ff757575</color>
+    <color name="primary_material_dark">#ff212121</color>
+    <color name="primary_material_light">#ffefefef</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#de000000</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="ripple_material_dark">#4dffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="statusBarcColor">#ffffffff</color>
+    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="text_color">#ffd7d7d7</color>
+    <color name="text_color_btn">#ffffffff</color>
+    <color name="text_color_search">#80ffffff</color>
+    <color name="tip_text_color">#80ffffff</color>
+    <color name="title_color">#ffffff</color>
+    <color name="window_background">#ff0a0b12</color>
+    <dimen name="aim_setting_layout_expand_height">290dp</dimen>
+    <dimen name="aim_setting_layout_narrow_height">86dp</dimen>
+    <dimen name="aim_setting_layout_width">238dp</dimen>
+    <dimen name="banner_space">18dp</dimen>
+    <dimen name="bitmap_height_offset">0dp</dimen>
+    <dimen name="close_btn_height">40dp</dimen>
+    <dimen name="close_btn_width">40dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="crop_bitmap_height">190dp</dimen>
+    <dimen name="crop_bitmap_height_offset">0dp</dimen>
+    <dimen name="crop_bitmap_width">352dp</dimen>
+    <dimen name="dialog_fixed_height_major">80%</dimen>
+    <dimen name="dialog_fixed_height_minor">100%</dimen>
+    <dimen name="dialog_fixed_width_major">320dp</dimen>
+    <dimen name="dialog_fixed_width_minor">320dp</dimen>
+    <dimen name="disabled_alpha_material_dark">0.3</dimen>
+    <dimen name="disabled_alpha_material_light">0.26</dimen>
+    <dimen name="edge_transparent_area_width">0dp</dimen>
+    <dimen name="fab_shader">1dp</dimen>
+    <dimen name="fastscroll_default_thickness">8dp</dimen>
+    <dimen name="fastscroll_margin">0dp</dimen>
+    <dimen name="fastscroll_minimum_range">50dp</dimen>
+    <dimen name="game_card_crop_translate_y">13dp</dimen>
+    <dimen name="game_card_height">190dp</dimen>
+    <dimen name="game_card_move_along_x">0dp</dimen>
+    <dimen name="game_card_width">352dp</dimen>
+    <dimen name="game_item_overlap_width">-30dp</dimen>
+    <dimen name="game_recycler_card_width_size">720dp</dimen>
+    <dimen name="game_shadow_height">198dp</dimen>
+    <dimen name="game_title_bg_height">188dp</dimen>
+    <dimen name="game_title_bg_width">350dp</dimen>
+    <dimen name="indicator_margin_width">4dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="key_help_text_size">13dp</dimen>
+    <dimen name="key_help_text_sub_size">11dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="nubia_action_bar_default_height">64dp</dimen>
+    <dimen name="nubia_action_bar_home_title_margin_left">8dp</dimen>
+    <dimen name="nubia_action_bar_home_title_padding_top_bottom">16dp</dimen>
+    <dimen name="nubia_action_bar_menu_default_height">66dp</dimen>
+    <dimen name="nubia_action_bar_menu_item_layout_padding">7.5dp</dimen>
+    <dimen name="nubia_action_bar_menu_item_layout_width">66dp</dimen>
+    <dimen name="nubia_action_bar_menu_min_size">30dp</dimen>
+    <dimen name="nubia_action_bar_menu_size">36dp</dimen>
+    <dimen name="nubia_action_bar_menu_text_size">10dp</dimen>
+    <dimen name="nubia_action_bar_split_height">66dp</dimen>
+    <dimen name="nubia_action_bar_title_margin_left">8dp</dimen>
+    <dimen name="nubia_action_bar_title_size">20dp</dimen>
+    <dimen name="nubia_action_mode_close_button_default_width">48dp</dimen>
+    <dimen name="nubia_action_mode_close_button_max_width">90dp</dimen>
+    <dimen name="nubia_action_mode_close_button_width">48dp</dimen>
+    <dimen name="nubia_action_mode_close_item_padding_start">16dp</dimen>
+    <dimen name="nubia_alert_dialog_animview_limit">25dp</dimen>
+    <dimen name="nubia_alert_dialog_button_bar_height">36dp</dimen>
+    <dimen name="nubia_alert_dialog_button_distance">16dp</dimen>
+    <dimen name="nubia_alert_dialog_button_height">40dp</dimen>
+    <dimen name="nubia_alert_dialog_button_horizontal_margin_1">72dp</dimen>
+    <dimen name="nubia_alert_dialog_button_horizontal_margin_2">20dp</dimen>
+    <dimen name="nubia_alert_dialog_button_layout_height">70dp</dimen>
+    <dimen name="nubia_alert_dialog_button_vertical_margin">8dp</dimen>
+    <dimen name="nubia_alert_dialog_button_width_1">216dp</dimen>
+    <dimen name="nubia_alert_dialog_button_width_2">150dp</dimen>
+    <dimen name="nubia_alert_dialog_choice_title_text_size">14sp</dimen>
+    <dimen name="nubia_alert_dialog_context_margin_bottom">8dp</dimen>
+    <dimen name="nubia_alert_dialog_context_notitle_margin_top">14dp</dimen>
+    <dimen name="nubia_alert_dialog_context_padding_left">44dp</dimen>
+    <dimen name="nubia_alert_dialog_context_padding_left_right">26dp</dimen>
+    <dimen name="nubia_alert_dialog_context_padding_right">26dp</dimen>
+    <dimen name="nubia_alert_dialog_land_width">360dp</dimen>
+    <dimen name="nubia_alert_dialog_list_item_min_height">57.3dp</dimen>
+    <dimen name="nubia_alert_dialog_message_horizontal_margin">20dp</dimen>
+    <dimen name="nubia_alert_dialog_message_text_size">14sp</dimen>
+    <dimen name="nubia_alert_dialog_message_vertical_margin_bottom">27dp</dimen>
+    <dimen name="nubia_alert_dialog_round_padding">27dp</dimen>
+    <dimen name="nubia_alert_dialog_scrollview_horizontal_margin">6dp</dimen>
+    <dimen name="nubia_alert_dialog_title_choice_horizontal_margin">33dp</dimen>
+    <dimen name="nubia_alert_dialog_title_choice_text_size">14sp</dimen>
+    <dimen name="nubia_alert_dialog_title_choice_vertical_margin_bottom">15dp</dimen>
+    <dimen name="nubia_alert_dialog_title_choice_vertical_margin_top">18dp</dimen>
+    <dimen name="nubia_alert_dialog_title_horizontal_margin">27dp</dimen>
+    <dimen name="nubia_alert_dialog_title_panel_height">48dp</dimen>
+    <dimen name="nubia_alert_dialog_title_text_size">17sp</dimen>
+    <dimen name="nubia_alert_dialog_title_vertical_margin_bottom">10dp</dimen>
+    <dimen name="nubia_alert_dialog_title_vertical_margin_top">35dp</dimen>
+    <dimen name="nubia_blur_arc_height">8dp</dimen>
+    <dimen name="nubia_bottom_bar_button_max_width">216dp</dimen>
+    <dimen name="nubia_bottom_bar_button_min_width">156dp</dimen>
+    <dimen name="nubia_bottom_bar_height">66dp</dimen>
+    <dimen name="nubia_bottom_bar_image_size">36dp</dimen>
+    <dimen name="nubia_bottom_bar_padding_end">3dp</dimen>
+    <dimen name="nubia_bottom_bar_padding_start">16dp</dimen>
+    <dimen name="nubia_btn_background_inset_horizontal">6dp</dimen>
+    <dimen name="nubia_btn_background_inset_vertical">10dp</dimen>
+    <dimen name="nubia_btn_control_corner_material">36dp</dimen>
+    <dimen name="nubia_btn_default_pressed_alpha_light">0.67</dimen>
+    <dimen name="nubia_btn_inset_horizontal_material">0dp</dimen>
+    <dimen name="nubia_btn_inset_vertical_material">6dp</dimen>
+    <dimen name="nubia_btn_padding_horizontal_material">8dp</dimen>
+    <dimen name="nubia_btn_stroke_width">1dp</dimen>
+    <dimen name="nubia_btn_text_size">15dp</dimen>
+    <dimen name="nubia_capsule_button_layout_width_default">83dp</dimen>
+    <dimen name="nubia_capsule_button_margin_default">14dp</dimen>
+    <dimen name="nubia_capsule_button_padding_default">4dp</dimen>
+    <dimen name="nubia_capsule_button_padding_inner">2dp</dimen>
+    <dimen name="nubia_capsule_button_text_size_default">14dp</dimen>
+    <dimen name="nubia_center_alert_dialog_button_height">40dp</dimen>
+    <dimen name="nubia_center_alert_dialog_button_horizontal_margin">20dp</dimen>
+    <dimen name="nubia_center_alert_dialog_button_vertical_margin_bottom">30dp</dimen>
+    <dimen name="nubia_center_alert_dialog_button_vertical_margin_top">15dp</dimen>
+    <dimen name="nubia_center_alert_dialog_button_width_1">272dp</dimen>
+    <dimen name="nubia_center_alert_dialog_button_width_2">136dp</dimen>
+    <dimen name="nubia_center_alert_dialog_message_horizontal_margin">18dp</dimen>
+    <dimen name="nubia_center_alert_dialog_message_text_size">14sp</dimen>
+    <dimen name="nubia_center_alert_dialog_message_vertical_margin_bottom">26dp</dimen>
+    <dimen name="nubia_center_alert_dialog_scrollview_horizontal_margin">6dp</dimen>
+    <dimen name="nubia_center_alert_dialog_title_horizontal_margin">20dp</dimen>
+    <dimen name="nubia_center_alert_dialog_title_text_size">17sp</dimen>
+    <dimen name="nubia_center_alert_dialog_title_vertical_margin_bottom">10dp</dimen>
+    <dimen name="nubia_center_alert_dialog_title_vertical_margin_top">35dp</dimen>
+    <dimen name="nubia_center_dialog_horizontal_margin">24dp</dimen>
+    <dimen name="nubia_center_dialog_min_height">200dp</dimen>
+    <dimen name="nubia_center_dialog_vertical_margin">28dp</dimen>
+    <dimen name="nubia_character_list_item_height">48dp</dimen>
+    <dimen name="nubia_character_list_view_max_height">264dp</dimen>
+    <dimen name="nubia_character_list_view_text_size">10dp</dimen>
+    <dimen name="nubia_character_list_view_text_size_small">8dp</dimen>
+    <dimen name="nubia_character_popup_x_location">72dp</dimen>
+    <dimen name="nubia_character_window_height">320dp</dimen>
+    <dimen name="nubia_circle_progress_radius_default">16dp</dimen>
+    <dimen name="nubia_circle_progress_radius_large">36dp</dimen>
+    <dimen name="nubia_circle_progress_width_default">1dp</dimen>
+    <dimen name="nubia_circle_progress_width_large">2dp</dimen>
+    <dimen name="nubia_dialog_activity_button_height">40dp</dimen>
+    <dimen name="nubia_dialog_activity_button_layout_height">70dp</dimen>
+    <dimen name="nubia_dialog_activity_button_margin">20dp</dimen>
+    <dimen name="nubia_dialog_activity_button_width">150dp</dimen>
+    <dimen name="nubia_dialog_title_text_size">14dp</dimen>
+    <dimen name="nubia_disabled_activated_alpha_light">0.2</dimen>
+    <dimen name="nubia_disabled_alpha_light">0.3</dimen>
+    <dimen name="nubia_double_card_view_margin">0dp</dimen>
+    <dimen name="nubia_dropdownitem_icon_width">32dp</dimen>
+    <dimen name="nubia_dropdownitem_text_padding_left">8dp</dimen>
+    <dimen name="nubia_dropdownitem_text_padding_right">8dp</dimen>
+    <dimen name="nubia_empty_view_text_size">14sp</dimen>
+    <dimen name="nubia_guide_btn_max_width">123dp</dimen>
+    <dimen name="nubia_guide_btn_min_height">30dp</dimen>
+    <dimen name="nubia_guide_btn_min_width">68dp</dimen>
+    <dimen name="nubia_guide_btn_padding_end">26dp</dimen>
+    <dimen name="nubia_guide_btn_padding_start">6dp</dimen>
+    <dimen name="nubia_guide_btn_text_size">10dp</dimen>
+    <dimen name="nubia_indicator_margin">4dp</dimen>
+    <dimen name="nubia_list_preferred_item_height_large">88dp</dimen>
+    <dimen name="nubia_list_preferred_item_height_normal">72dp</dimen>
+    <dimen name="nubia_list_preferred_item_height_small">56dp</dimen>
+    <dimen name="nubia_list_preferred_item_height_small_secondary">56dp</dimen>
+    <dimen name="nubia_list_preferred_item_pandding">16dp</dimen>
+    <dimen name="nubia_list_preferred_item_pandding_side">16dp</dimen>
+    <dimen name="nubia_list_preferred_item_space">0dp</dimen>
+    <dimen name="nubia_listdivider_height">0.5dp</dimen>
+    <dimen name="nubia_more_popup_bottom_view_left_margin">15dp</dimen>
+    <dimen name="nubia_more_popup_distance">18dp</dimen>
+    <dimen name="nubia_more_popup_listview_width_land">240dp</dimen>
+    <dimen name="nubia_more_popup_right_padding_land">3dp</dimen>
+    <dimen name="nubia_more_popup_text_top_padding">2.5dp</dimen>
+    <dimen name="nubia_more_popup_top_view_right_margin">16dp</dimen>
+    <dimen name="nubia_more_popup_top_width">46dp</dimen>
+    <dimen name="nubia_more_popup_width">48dp</dimen>
+    <dimen name="nubia_preference_category_divider_height">30dp</dimen>
+    <dimen name="nubia_preference_category_height">36dp</dimen>
+    <dimen name="nubia_preference_category_layout_height">52dp</dimen>
+    <dimen name="nubia_preference_category_padding_side">0dp</dimen>
+    <dimen name="nubia_preference_category_text_size">14sp</dimen>
+    <dimen name="nubia_preference_first_category_height">36dp</dimen>
+    <dimen name="nubia_preference_fragment_padding_side_material">0dp</dimen>
+    <dimen name="nubia_preference_icon_minWidth">0dp</dimen>
+    <dimen name="nubia_preference_item_icon_size">36dp</dimen>
+    <dimen name="nubia_preference_item_padding_inner">6dp</dimen>
+    <dimen name="nubia_preference_item_padding_side">16dp</dimen>
+    <dimen name="nubia_preference_right_text_maxWidth">150dp</dimen>
+    <dimen name="nubia_preference_summary_text_margin_top">4dp</dimen>
+    <dimen name="nubia_preference_widget_width">0dp</dimen>
+    <dimen name="nubia_progress_dialog_body_height">45dp</dimen>
+    <dimen name="nubia_progress_dialog_body_margin_bottom">80dp</dimen>
+    <dimen name="nubia_progress_dialog_progress_height">18dp</dimen>
+    <dimen name="nubia_progress_dialog_progress_margin_end">5dp</dimen>
+    <dimen name="nubia_progress_dialog_progress_width">18dp</dimen>
+    <dimen name="nubia_progress_dialog_text_size">15dp</dimen>
+    <dimen name="nubia_search_view_cacel_text_margin_left">2dp</dimen>
+    <dimen name="nubia_search_view_cancel_divider_height">22dp</dimen>
+    <dimen name="nubia_search_view_cancel_divider_width">1dp</dimen>
+    <dimen name="nubia_search_view_cancel_text_margin_right">16dp</dimen>
+    <dimen name="nubia_search_view_canceltext_padding_right">16dp</dimen>
+    <dimen name="nubia_search_view_canceltext_size">15sp</dimen>
+    <dimen name="nubia_search_view_edittext_height">44dp</dimen>
+    <dimen name="nubia_search_view_fake_text_size">15sp</dimen>
+    <dimen name="nubia_search_view_fake_width">320dp</dimen>
+    <dimen name="nubia_search_view_layout_height">56dp</dimen>
+    <dimen name="nubia_search_view_preferred_width">320dp</dimen>
+    <dimen name="nubia_search_view_real_margin_left">8dp</dimen>
+    <dimen name="nubia_search_view_text_min_width">160dp</dimen>
+    <dimen name="nubia_status_bar_height">25dp</dimen>
+    <dimen name="nubia_switch_min_width">56dp</dimen>
+    <dimen name="nubia_switch_padding">5dp</dimen>
+    <dimen name="nubia_switch_text_padding">5dp</dimen>
+    <dimen name="nubia_switch_text_size">14sp</dimen>
+    <dimen name="nubia_switch_thumb_offset_track">4dp</dimen>
+    <dimen name="nubia_tab_bar_height">56dp</dimen>
+    <dimen name="nubia_tab_bar_image_size">36dp</dimen>
+    <dimen name="nubia_tab_bar_padding">12dp</dimen>
+    <dimen name="nubia_tab_image_margin_top">11dp</dimen>
+    <dimen name="nubia_tab_image_size">22dp</dimen>
+    <dimen name="nubia_tab_label_margin_start">42dp</dimen>
+    <dimen name="nubia_tab_label_margin_top">9dp</dimen>
+    <dimen name="nubia_tab_margin">12dp</dimen>
+    <dimen name="nubia_tab_padding">2dp</dimen>
+    <dimen name="nubia_tab_textview_max_width">85dp</dimen>
+    <dimen name="nubia_tab_width">80dp</dimen>
+    <dimen name="nubia_text_size_extralarge">26dp</dimen>
+    <dimen name="nubia_text_size_extrasmall">10sp</dimen>
+    <dimen name="nubia_text_size_large">17dp</dimen>
+    <dimen name="nubia_text_size_medium">15sp</dimen>
+    <dimen name="nubia_text_size_medium_no_change">16dp</dimen>
+    <dimen name="nubia_text_size_small">12sp</dimen>
+    <dimen name="nubia_wheel_adjust_pos">3dp</dimen>
+    <dimen name="nubia_wheel_hight">198dp</dimen>
+    <dimen name="nubia_wheel_text_size">18dp</dimen>
+    <dimen name="nubia_wheel_textview_padding_left">10dp</dimen>
+    <dimen name="nubia_wheel_textview_padding_right">40dp</dimen>
+    <dimen name="nubia_wheel_textview_padding_top">2dp</dimen>
+    <dimen name="nubia_wheel_width">100dp</dimen>
+    <dimen name="padding_left">80dp</dimen>
+    <dimen name="preference_icon_minWidth">0dp</dimen>
+    <dimen name="preference_seekbar_padding_end">22dp</dimen>
+    <dimen name="preference_seekbar_padding_start">0dp</dimen>
+    <dimen name="preference_seekbar_value_width">36dp</dimen>
+    <dimen name="right_margin">20dp</dimen>
+    <dimen name="setting_horizontal_padding">17dp</dimen>
+    <dimen name="setting_view_padding_top">84dp</dimen>
+    <dimen name="style_button_padding">6dp</dimen>
+    <dimen name="switch_btn_height">24dp</dimen>
+    <dimen name="switch_btn_text_size">12dp</dimen>
+    <dimen name="switch_btn_width">99dp</dimen>
+    <dimen name="text_compound_drawable_padding">12dp</dimen>
+    <dimen name="text_left_icon_size">32dp</dimen>
+    <dimen name="title_height">16.33dp</dimen>
+    <dimen name="title_text_size">12dp</dimen>
+    <dimen name="title_width">62dp</dimen>
+    <dimen name="top_margin">35dp</dimen>
+    <dimen name="view_page_game_list_height">196dp</dimen>
+    <dimen name="view_page_game_list_width">672dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="accessibility_action_clickable_span" type="id"/>
+    <item name="accessibility_custom_action_0" type="id"/>
+    <item name="accessibility_custom_action_1" type="id"/>
+    <item name="accessibility_custom_action_10" type="id"/>
+    <item name="accessibility_custom_action_11" type="id"/>
+    <item name="accessibility_custom_action_12" type="id"/>
+    <item name="accessibility_custom_action_13" type="id"/>
+    <item name="accessibility_custom_action_14" type="id"/>
+    <item name="accessibility_custom_action_15" type="id"/>
+    <item name="accessibility_custom_action_16" type="id"/>
+    <item name="accessibility_custom_action_17" type="id"/>
+    <item name="accessibility_custom_action_18" type="id"/>
+    <item name="accessibility_custom_action_19" type="id"/>
+    <item name="accessibility_custom_action_2" type="id"/>
+    <item name="accessibility_custom_action_20" type="id"/>
+    <item name="accessibility_custom_action_21" type="id"/>
+    <item name="accessibility_custom_action_22" type="id"/>
+    <item name="accessibility_custom_action_23" type="id"/>
+    <item name="accessibility_custom_action_24" type="id"/>
+    <item name="accessibility_custom_action_25" type="id"/>
+    <item name="accessibility_custom_action_26" type="id"/>
+    <item name="accessibility_custom_action_27" type="id"/>
+    <item name="accessibility_custom_action_28" type="id"/>
+    <item name="accessibility_custom_action_29" type="id"/>
+    <item name="accessibility_custom_action_3" type="id"/>
+    <item name="accessibility_custom_action_30" type="id"/>
+    <item name="accessibility_custom_action_31" type="id"/>
+    <item name="accessibility_custom_action_4" type="id"/>
+    <item name="accessibility_custom_action_5" type="id"/>
+    <item name="accessibility_custom_action_6" type="id"/>
+    <item name="accessibility_custom_action_7" type="id"/>
+    <item name="accessibility_custom_action_8" type="id"/>
+    <item name="accessibility_custom_action_9" type="id"/>
+    <item name="glide_custom_view_target_tag" type="id"/>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_accessibility_actions" type="id"/>
+    <item name="tag_accessibility_clickable_spans" type="id"/>
+    <item name="tag_accessibility_heading" type="id"/>
+    <item name="tag_accessibility_pane_title" type="id"/>
+    <item name="tag_first" type="id"/>
+    <item name="tag_screen_reader_focusable" type="id"/>
+    <item name="tag_second" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="tag_unhandled_key_event_manager" type="id"/>
+    <item name="tag_unhandled_key_listeners" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="nubia_preference_fragment_scrollbarStyle">2000000</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="action_bar_home_description">Navigate home</string>
+    <string name="action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="action_bar_up_description">Navigate up</string>
+    <string name="add_game">Add Games</string>
+    <string name="add_game_title">Add Games</string>
+    <string name="add_shortcut_ok">Icons have been added to the desktop</string>
+    <string name="add_shortcut_tips">Click to add the game space icon to the desktop</string>
+    <string name="added_games"> added</string>
+    <string name="aim_helper">Aiming assist</string>
+    <string name="all_select">Select all</string>
+    <string name="app_name">Game SpaceX</string>
+    <string name="astophere_apply">apply</string>
+    <string name="astophere_apply_success">astophere map has been applied</string>
+    <string name="astophere_cancel">cancel</string>
+    <string name="astophere_gallery">gallery</string>
+    <string name="auto">Auto</string>
+    <string name="cancel">Cancel</string>
+    <string name="classic_masterpiece">Classic games</string>
+    <string name="color">Colour</string>
+    <string name="confirm">OK</string>
+    <string name="connecting">Connecting</string>
+    <string name="cta_confirm">Agree</string>
+    <string name="cta_deny">Exit</string>
+    <string name="cta_message">Welcome to Red Magic Game Controller. In order to provide you better service, the app requires the following permissions during the process of use:\10 1. Access your location information, including approximate location and accurate location.\10 2. Access your bluetooth information，including opening bluetooth,connection bluetooth,cancel pairing.\10\10By clicking Agree, you have agreed to the above contents.</string>
+    <string name="cta_message_home">Welcome to GameSpace. In order to provide you better service, the app requires the following permissions during the process of use:\10 1. Access your location information, including approximate location and accurate location;\10 2.In the process of using the software, we need to obtain full network access, including mobile data and WLAN network, the traffic charges generated by the operator directly charged, the details of the operators you belong to.\10\10 By clicking Agree, you have agreed to the above contents.</string>
+    <string name="cta_title">Service Descriptions</string>
+    <string name="downloading">Downloading</string>
+    <string name="exit_cancel">Cancel</string>
+    <string name="exit_ok">Quit</string>
+    <string name="exit_tips">Are you sure you want to quit?</string>
+    <string name="game_search">Search...</string>
+    <string name="game_space_function_head">Shoulder Triggers descriptions</string>
+    <string name="game_space_function_string_slide0">Customize L/R button according to the game interface</string>
+    <string name="game_space_function_string_slide1">Quickly turn on Control Center</string>
+    <string name="game_space_function_string_slide2">PUBG game: it\'s recommended to correspond L button to the Shoot button and R button to the Aim button</string>
+    <string name="game_space_function_string_slide2_sub">(To set the key position in the game or training ground is recommended)</string>
+    <string name="game_space_function_string_slide3">MOBA game: it\'s recommended to correspond L button to the Shop button and R button to the Summoner Spells button</string>
+    <string name="game_space_function_string_slide3_sub">(To set the key position in the game is recommended)</string>
+    <string name="game_space_function_string_slide_inter_0">Quickly turn on Control Center</string>
+    <string name="game_space_function_string_slide_inter_1">Customize L/R button according to the game interface</string>
+    <string name="game_space_start_game">start Setting</string>
+    <string name="game_state">Game Status</string>
+    <string name="game_state_best">Reached the best conditions</string>
+    <string name="game_state_clean_memory">Cleaned memory</string>
+    <string name="game_state_cleaning">Cleaning...</string>
+    <string name="game_time">Duration of Game</string>
+    <string name="game_time_weekly_message">Weekly Health Report on Game duration generated, please go to check it</string>
+    <string name="game_time_weekly_positive">Check</string>
+    <string name="gamecenter_not_fonund_dialog">Please go to neoStore to download Game Center before using the function.</string>
+    <string name="gamekeys_lamp_a">Aurora band</string>
+    <string name="gamekeys_lamp_b">Interstellar belt</string>
+    <string name="gamekeys_lamp_c">Skyline</string>
+    <string name="gamekeys_lamp_d">Rainbow ribbon</string>
+    <string name="gamekeys_lamp_e">Laserwave</string>
+    <string name="gamekeys_lamp_f">Bottom rhythm</string>
+    <string name="gamekeys_lamp_g">Central rhythm</string>
+    <string name="gamekeys_lamp_h">Rhythmic LED effects</string>
+    <string name="gamekeys_lamp_normal">RGB LED Strip</string>
+    <string name="gamekeys_phone_message">Enabling this function can bar Call,SMS,QQ/WeChat Video Call and Voice Call to avoid game being interrupted.</string>
+    <string name="gamemode_network_acceleration_in_use">Accelerating</string>
+    <string name="gamemode_network_acceleration_no_open">Disabled</string>
+    <string name="gametime_overtime_message">You have played games more than 6 hours today. Please have some rest and arrange your game time reasonably.</string>
+    <string name="guild_page1_text">Dedicated game space, give you console like gaming experiences</string>
+    <string name="guild_page2_text">Top Shoulder Triggers, helping you win the game easily</string>
+    <string name="guild_page3_text">Smart game acceleration, Take advantage in the competitive world</string>
+    <string name="handle_calibration_button">Controller calibration</string>
+    <string name="handle_calibration_complete">Controller calibrated</string>
+    <string name="handle_calibration_countdown">Please click the LB/RB button on the Controller to start calibrating within 60 seconds. Do not operate the stick to avoid the failure of calibration(</string>
+    <string name="handle_calibration_title">Controller calibration</string>
+    <string name="handle_cancel_pair_button">Unpair</string>
+    <string name="handle_choose_connect">Select the Controller you want to connect</string>
+    <string name="handle_connect_button">Connect</string>
+    <string name="handle_connecting">Connecting…</string>
+    <string name="handle_connecting_fail">Connection failed, please try again</string>
+    <string name="handle_electric">Controller battery:</string>
+    <string name="handle_gamehandle_connected">Red Magic Game Controller connected</string>
+    <string name="handle_gamehandle_name">Red Magic Controller</string>
+    <string name="handle_helper">Red Magic Controller Descriptions</string>
+    <string name="handle_helper_custom_button_seat">Red Magic Controller, customizing the button position according to different game interfaces</string>
+    <string name="handle_helper_handle_setting_open">Control Center, allowing you to quickly enable</string>
+    <string name="handle_left_handle">Left Controller</string>
+    <string name="handle_left_right_calibration">L/R Calibration</string>
+    <string name="handle_left_right_confirm_text">Left/right Controller Calibration</string>
+    <string name="handle_left_right_describe_1">Detected that you have connected to double-handed Controller. \10Please operate the left Controller and confirm.</string>
+    <string name="handle_left_right_describe_2">Settings completed</string>
+    <string name="handle_no_connectable_device">No connectable devices</string>
+    <string name="handle_one_button_text">Controller 1</string>
+    <string name="handle_one_handle_xplain">Single-handed Controller, switching between left and right hand</string>
+    <string name="handle_open_gps">Please turn on GPS</string>
+    <string name="handle_overtime_cancel_calibration">Operation timeout, please exit the Controller calibration mode</string>
+    <string name="handle_permission_position">Permissions for location information required!</string>
+    <string name="handle_quick_start_handle_setting">Enable Controller settings quickly during games</string>
+    <string name="handle_redmagic_handle">Red Magic Controller</string>
+    <string name="handle_reset_calibration">Recalibration</string>
+    <string name="handle_right_handle">Right Controller</string>
+    <string name="handle_search_device_title">Search devices</string>
+    <string name="handle_searching_device">Searching connectable devices...</string>
+    <string name="handle_service_tips">GameLauncher Running</string>
+    <string name="handle_start_experiencing">Start</string>
+    <string name="handle_two_button_text">Controller 2</string>
+    <string name="handle_two_handle_explain">Double-handed Controller, simulating the user experience of holding a smartphone</string>
+    <string name="handle_unconnected">Disconnect</string>
+    <string name="handle_unknown_device">Unknown device</string>
+    <string name="handle_waiting_for_binding">Wait for binding</string>
+    <string name="has_slect_num">Selected</string>
+    <string name="high_perform_message">Enabling this function will improve performance rapidly, which may increase power consumption and heat generation.</string>
+    <string name="installing">Installing</string>
+    <string name="join_switch">Join</string>
+    <string name="manual">Manual</string>
+    <string name="minority_boutique">Exquisite games</string>
+    <string name="mode_4d_shock">4D Vibration</string>
+    <string name="mode_4d_shock_hint">Only PUBG Mobile and Knives Out are supported</string>
+    <string name="mode_cooling_fan">Cooling fan</string>
+    <string name="mode_hight_perfom">High Performance</string>
+    <string name="mode_no_disturb">Block msgs</string>
+    <string name="mode_redmiagic_time">RedMagicTime</string>
+    <string name="mode_shield_phone">Block calls</string>
+    <string name="mode_wonderful_time">WonderfulTime</string>
+    <string name="modify_astophere_map">Modify Image</string>
+    <string name="net_acceleration">Network acceleration</string>
+    <string name="net_acceleration_had">Accelerated</string>
+    <string name="not_added_games"> not added</string>
+    <string name="nubia_app_name">Nubia Common Resources</string>
+    <string name="nubia_back_button_label">Back</string>
+    <string name="nubia_capital_off">OFF</string>
+    <string name="nubia_capital_on">ON</string>
+    <string name="nubia_common_label">nubia</string>
+    <string name="nubia_common_versionName">V6.0.3</string>
+    <string name="nubia_date_day">day</string>
+    <string name="nubia_date_lunar_title">%1$d Y,%2$s M,%3$s D,%4$s W</string>
+    <string name="nubia_date_month">month</string>
+    <string name="nubia_date_solar_title">%4$s,%2$s %3$d,%1$d</string>
+    <string name="nubia_date_year">year</string>
+    <string name="nubia_download">download</string>
+    <string name="nubia_eight">8</string>
+    <string name="nubia_empty_message">Empty content</string>
+    <string name="nubia_five">5</string>
+    <string name="nubia_four">4</string>
+    <string name="nubia_guide_button_text">Bottom latest</string>
+    <string name="nubia_leap">leap</string>
+    <string name="nubia_loading_dialog_please_waiting">Please Waiting…</string>
+    <string name="nubia_lunar">Lunar Calendar</string>
+    <string name="nubia_lunar_eleventh_month">Lunar November</string>
+    <string name="nubia_lunar_first_day">First</string>
+    <string name="nubia_lunar_first_month">Lunar January</string>
+    <string name="nubia_lunar_twelveth_month">Lunar December</string>
+    <string name="nubia_lunar_twentieth_day">twenty</string>
+    <string name="nubia_more_popup_text">Cancel</string>
+    <string name="nubia_next_button_label">Next</string>
+    <string name="nubia_nine">9</string>
+    <string name="nubia_notification_hour_time">%d hours ago</string>
+    <string name="nubia_notification_hours_minutes_time">%1$d hours and %2$d minutes ago</string>
+    <string name="nubia_notification_hours_one_minute_time">%d hours and 1 minute ago</string>
+    <string name="nubia_notification_minutes_time">%d minutes ago</string>
+    <string name="nubia_notification_one_hours_minutes_time">A hour and %d minutes ago</string>
+    <string name="nubia_notification_time_just_now">Just now</string>
+    <string name="nubia_notification_time_one_hour">A hour ago</string>
+    <string name="nubia_notification_time_one_hour_one_minute">A hour and 1 minute ago</string>
+    <string name="nubia_notification_time_one_minute">A minute ago</string>
+    <string name="nubia_one">1</string>
+    <string name="nubia_searchview_description_clear">Clear query</string>
+    <string name="nubia_searchview_description_submit">Submit query</string>
+    <string name="nubia_searchview_description_voice">Voice search</string>
+    <string name="nubia_select">Select</string>
+    <string name="nubia_select_all">Select All</string>
+    <string name="nubia_select_none">Select None</string>
+    <string name="nubia_setting_date">Set date</string>
+    <string name="nubia_seven">7</string>
+    <string name="nubia_six">6</string>
+    <string name="nubia_skip_button_label">Skip</string>
+    <string name="nubia_ten">10</string>
+    <string name="nubia_text_copied">Text copied to clipboard.</string>
+    <string name="nubia_text_pastelist">Clipboard</string>
+    <string name="nubia_three">3</string>
+    <string name="nubia_time_am">AM</string>
+    <string name="nubia_time_am_upper">AM</string>
+    <string name="nubia_time_hour">H</string>
+    <string name="nubia_time_minute">M</string>
+    <string name="nubia_time_picker_dialog_title">Set time</string>
+    <string name="nubia_time_pm">PM</string>
+    <string name="nubia_time_pm_upper">PM</string>
+    <string name="nubia_time_title">%3$s,%2$s,%1$s,%5$s:%6$s %4$s</string>
+    <string name="nubia_total_text">a total of %s</string>
+    <string name="nubia_translation_list_dragged_text">The list moved down for one-handed operation</string>
+    <string name="nubia_two">2</string>
+    <string name="nubia_week">week</string>
+    <string name="nubia_zero">0</string>
+    <string name="off">Shut down</string>
+    <string name="on">Startup</string>
+    <string name="only_support_portrait_screen">Please use it in the horizontal screen game</string>
+    <string name="open_mode">Startup method</string>
+    <string name="paused">Paused</string>
+    <string name="please_close_current_settings_window">Please close current settings page first</string>
+    <string name="redmagic_time_message">Enable Red Magic Time to automatically records your gameplay. It may not work with other screen recording software and will increase power consumption, it only supports the Stimulus battlefield、The glory of the king、Fortnite and PUBG MOBILE.</string>
+    <string name="redmagictime_move_tips_top">Redmagic time is here</string>
+    <string name="redmagictime_move_tips_top_627">WonderfulTime is here</string>
+    <string name="redmagictime_move_tips_under">Redmagic time have been upgraded and moved to the Personal Center.</string>
+    <string name="redmagictime_move_tips_under_627">WonderfulTime have been upgraded and moved to the Personal Center.</string>
+    <string name="redmagictime_paopao_tips">Click open RedMagic Time video recording</string>
+    <string name="remove_switch">Remove</string>
+    <string name="select_none">Unselect all</string>
+    <string name="size">Size</string>
+    <string name="start_experience">Start</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="style">Style</string>
+    <string name="sure_uninstall">Remove the selected games?</string>
+    <string name="tip_auto">Auto on when enter game</string>
+    <string name="tip_manual">Need manual open when enter game</string>
+    <string name="toast_unsupport_app">Please use it during games</string>
+    <string name="turn_off_game_button">Please click the exit button to exit the game space</string>
+    <string name="turn_off_game_button_redmagic">Please disable the Compete button to exit</string>
+    <string name="uninstall">Remove</string>
+    <string name="uninstall_this_app">Uninstall</string>
+    <string name="update_game_center_string">Please install a new version of Game Center</string>
+    <string name="updating">Downloading</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="wonderfultime_paopao_tips">Click open Wonderful Time video recording</string>
+    <style name="Animation.Nubia.Activity" parent="android:Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/nubia_activity_open_enter</item>
+        <item name="android:activityOpenExitAnimation">@anim/nubia_activity_open_exit</item>
+        <item name="android:activityCloseEnterAnimation">@anim/nubia_activity_close_enter</item>
+        <item name="android:activityCloseExitAnimation">@anim/nubia_activity_close_exit</item>
+        <item name="android:taskOpenEnterAnimation">@anim/nubia_task_open_enter</item>
+        <item name="android:taskOpenExitAnimation">@anim/nubia_task_open_exit</item>
+        <item name="android:taskCloseEnterAnimation">@anim/nubia_task_close_enter</item>
+        <item name="android:taskCloseExitAnimation">@anim/nubia_task_close_exit</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/nubia_task_open_enter</item>
+        <item name="android:taskToFrontExitAnimation">@anim/nubia_task_open_exit</item>
+        <item name="android:taskToBackEnterAnimation">@anim/nubia_task_close_enter</item>
+        <item name="android:taskToBackExitAnimation">@anim/nubia_task_close_exit</item>
+        <item name="android:fragmentOpenEnterAnimation">@animator/nubia_fragment_open_enter</item>
+        <item name="android:fragmentOpenExitAnimation">@animator/nubia_fragment_open_exit</item>
+        <item name="android:fragmentCloseEnterAnimation">@animator/nubia_fragment_close_enter</item>
+        <item name="android:fragmentCloseExitAnimation">@animator/nubia_fragment_close_exit</item>
+    </style>
+    <style name="Animation.Nubia.Dialog" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/nubia_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/nubia_dialog_exit</item>
+    </style>
+    <style name="Animation.NubiaDialog" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/nubia_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/nubia_dialog_exit</item>
+    </style>
+    <style name="Animation.NubiaDialog.AlertInCenter">
+        <item name="android:windowEnterAnimation">@anim/nubia_center_alert_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/nubia_center_alert_dialog_exit</item>
+    </style>
+    <style name="BoldFont">
+    </style>
+    <style name="ButtonStyle2">
+        <item name="android:textSize">10dp</item>
+        <item name="android:textColor">#bfffebee</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:layout_width">82dp</item>
+        <item name="android:layout_height">22dp</item>
+        <item name="android:layout_marginLeft">34dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="CapsuleButtonStyle">
+        <item name="capsuleSelectedTextColor">@color/nubia_primary_text_default_material_light</item>
+        <item name="capsuleNormalTextColor">@color/nubia_secondary_text_default_material_light</item>
+        <item name="capsuleBackgroundLeft">@drawable/nubia_capsule_btn_background</item>
+        <item name="capsuleBackgroundMid">@drawable/nubia_capsule_btn_background</item>
+        <item name="capsuleBackgroundRight">@drawable/nubia_capsule_btn_background</item>
+    </style>
+    <style name="CircleProgressBarStyle">
+        <item name="progressNubia">@null</item>
+        <item name="maxProgressNubia">100</item>
+        <item name="progressUnreachedColor">@color/nubia_circle_progress_unreached_color</item>
+        <item name="progressReachedColor">@color/nubia_circle_progress_reached_color</item>
+        <item name="progressTextColor">@color/nubia_circle_progress_reached_color</item>
+    </style>
+    <style name="CircleProgressBarStyle.Large">
+        <item name="progressTextSize">@dimen/nubia_text_size_medium</item>
+        <item name="progressCircleRadius">@dimen/nubia_circle_progress_radius_large</item>
+        <item name="progressCircleSize">@dimen/nubia_circle_progress_width_large</item>
+    </style>
+    <style name="CircleProgressBarStyle.Normal">
+        <item name="progressTextSize">@dimen/nubia_text_size_extrasmall</item>
+        <item name="progressCircleRadius">@dimen/nubia_circle_progress_radius_default</item>
+        <item name="progressCircleSize">@dimen/nubia_circle_progress_width_default</item>
+    </style>
+    <style name="CustomAstophereTextStyle">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">#ffffebee</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:layout_gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:background">@drawable/more_button_normal</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:layout_width">110dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="DialogWindowTitle">
+    </style>
+    <style name="DialogWindowTitle.Nubia">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="GameSpaceTheme">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Nubia.Activity</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="GameTimeLightStyle">
+        <item name="android:layout_width">4dp</item>
+        <item name="android:layout_height">7dp</item>
+        <item name="android:layout_marginBottom">26dp</item>
+        <item name="android:src">@mipmap/game_state_light</item>
+    </style>
+    <style name="MediumFont">
+    </style>
+    <style name="Nubia">
+    </style>
+    <style name="Nubia.ButtonBar">
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+    </style>
+    <style name="Nubia.ButtonBar.AlertDialog">
+        <item name="android:background">@null</item>
+        <item name="android:dividerPadding">0dp</item>
+    </style>
+    <style name="NubiaFontBold">
+        <item name="android:fontFamily">nubiafont-bold</item>
+        <item name="android:elegantTextHeight">true</item>
+    </style>
+    <style name="NubiaFontMedium">
+        <item name="android:fontFamily">nubiafont-medium</item>
+        <item name="android:elegantTextHeight">true</item>
+    </style>
+    <style name="NubiaPreferenceFragment">
+        <item name="android:paddingStart">@dimen/nubia_preference_fragment_padding_side_material</item>
+        <item name="android:paddingEnd">@dimen/nubia_preference_fragment_padding_side_material</item>
+    </style>
+    <style name="Preference">
+    </style>
+    <style name="Preference.Nubia">
+        <item name="android:layout">@layout/nubia_preference_holo</item>
+        <item name="android:widgetLayout">@layout/nubia_preference_widget_arrow</item>
+    </style>
+    <style name="Preference.Nubia.Category">
+        <item name="android:layout">@layout/nubia_preference_category_holo</item>
+        <item name="android:selectable">false</item>
+        <item name="android:widgetLayout">@null</item>
+        <item name="android:shouldDisableView">false</item>
+    </style>
+    <style name="Preference.Nubia.DialogPreference">
+        <item name="android:widgetLayout">@layout/nubia_preference_widget_arrow</item>
+        <item name="android:positiveButtonText">@android:string/ok</item>
+        <item name="android:negativeButtonText">@android:string/cancel</item>
+    </style>
+    <style name="Preference.Nubia.DialogPreference.EditTextPreference">
+        <item name="android:dialogLayout">@layout/nubia_preference_dialog_edittext</item>
+    </style>
+    <style name="Preference.Nubia.FirstCategory">
+        <item name="android:layout">@layout/nubia_preference_first_category</item>
+        <item name="android:selectable">false</item>
+        <item name="android:widgetLayout">@null</item>
+        <item name="android:shouldDisableView">false</item>
+    </style>
+    <style name="Preference.Nubia.Information">
+        <item name="android:enabled">false</item>
+        <item name="android:layout">@layout/nubia_preference_information_holo</item>
+        <item name="android:widgetLayout">@null</item>
+        <item name="android:shouldDisableView">false</item>
+    </style>
+    <style name="Preference.Nubia.PreferenceScreen">
+        <item name="android:widgetLayout">@layout/nubia_preference_widget_arrow</item>
+    </style>
+    <style name="Preference.Nubia.RingtonePreference">
+        <item name="android:layout">@layout/nubia_right_summary_preference</item>
+        <item name="android:widgetLayout">@layout/nubia_preference_widget_arrow</item>
+        <item name="android:ringtoneType">ringtone</item>
+        <item name="android:showDefault">true</item>
+        <item name="android:showSilent">true</item>
+    </style>
+    <style name="RadioButtonStyle">
+        <item name="android:textSize">@dimen/switch_btn_text_size</item>
+        <item name="android:textColor">@color/radio_text_color</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:background">@drawable/radiobutton_background</item>
+        <item name="android:layout_margin">0dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:height">@dimen/switch_btn_height</item>
+        <item name="android:width">@dimen/switch_btn_width</item>
+    </style>
+    <style name="RadioGroupStyle">
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:orientation">@null</item>
+        <item name="android:background">@mipmap/bg_checked</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_margin">3dp</item>
+    </style>
+    <style name="RightUpperBtnStyle">
+        <item name="android:layout_width">26.67dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginRight">12.67dp</item>
+    </style>
+    <style name="RowTitleStyle">
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:textColor">@color/title_color</item>
+        <item name="android:layout_width">@dimen/title_width</item>
+        <item name="android:layout_height">@dimen/title_height</item>
+        <item name="android:layout_marginTop">12dp</item>
+        <item name="android:layout_marginBottom">9dp</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Nubia" parent="android:TextAppearance">
+    </style>
+    <style name="TextAppearance.Nubia.ActionBarTittle">
+        <item name="android:textSize">@dimen/nubia_action_bar_title_size</item>
+        <item name="android:textColor">@color/nubia_ic_ab_back_color</item>
+        <item name="android:fontFamily">nubiafont-medium</item>
+        <item name="android:elegantTextHeight">true</item>
+    </style>
+    <style name="TextAppearance.Nubia.ActionBarTittle.Dark">
+        <item name="android:textColor">@color/nubia_primary_text_default_material_dark</item>
+    </style>
+    <style name="TextAppearance.Nubia.AlertDialog">
+    </style>
+    <style name="TextAppearance.Nubia.AlertDialog.CheckedTextView">
+        <item name="android:textColor">@color/nubia_alert_dialog_list_item_color</item>
+    </style>
+    <style name="TextAppearance.Nubia.AlertDialogTitle">
+        <item name="android:textSize">@dimen/nubia_dialog_title_text_size</item>
+        <item name="android:textColor">@color/nubia_dialog_title_text_color</item>
+    </style>
+    <style name="TextAppearance.Nubia.ExtraLarge">
+        <item name="android:textSize">@dimen/nubia_text_size_extralarge</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:fontFamily">nubiafont-medium</item>
+        <item name="android:elegantTextHeight">true</item>
+    </style>
+    <style name="TextAppearance.Nubia.ExtraSmall">
+        <item name="android:textSize">@dimen/nubia_text_size_extrasmall</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Nubia.Large">
+        <item name="android:textSize">@dimen/nubia_text_size_large</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Nubia.Medium">
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="TextAppearance.Nubia.Small">
+        <item name="android:textSize">@dimen/nubia_text_size_small</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Nubia.Widget">
+    </style>
+    <style name="TextAppearance.Nubia.Widget.ActionBar">
+    </style>
+    <style name="TextAppearance.Nubia.Widget.ActionBar.Menu">
+        <item name="android:textSize">@dimen/nubia_action_bar_menu_text_size</item>
+        <item name="android:textColor">?android:attr/actionMenuTextColor</item>
+        <item name="android:fontFamily">nubiafont-medium</item>
+        <item name="android:elegantTextHeight">true</item>
+    </style>
+    <style name="TextAppearance.Nubia.WindowTitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="TextLetterDialog">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="TextViewColorNormal">
+        <item name="android:textSize">@dimen/nubia_text_size_medium</item>
+        <item name="android:textColor">@color/nubia_text_view_material_light</item>
+    </style>
+    <style name="TextViewStyle1Inter">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#ffffebee</item>
+        <item name="android:gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+    <style name="TextViewStyle2">
+        <item name="android:textSize">8dp</item>
+        <item name="android:textColor">#bfffcdd2</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:layout_width">85dp</item>
+        <item name="android:layout_height">16dp</item>
+        <item name="android:layout_marginBottom">13dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Theme.Nubia" parent="android:Theme">
+        <item name="android:disabledAlpha">@dimen/nubia_disabled_alpha_light</item>
+        <item name="android:textColorPrimary">@color/nubia_primary_text_material_light</item>
+        <item name="android:textColorSecondary">@color/nubia_secondary_text_material_light</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.Nubia.Large</item>
+        <item name="android:textAppearanceMedium">@style/TextAppearance.Nubia.Medium</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.Nubia.Small</item>
+        <item name="android:buttonStyle">@style/Widget.Nubia.Button</item>
+        <item name="android:listPreferredItemHeight">@dimen/nubia_list_preferred_item_height_normal</item>
+        <item name="android:windowBackground">@drawable/nubia_window_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleSize">25dp</item>
+        <item name="android:windowTitleStyle">@style/WindowTitle.Nubia</item>
+        <item name="android:scrollbarThumbHorizontal">@drawable/nubia_scrollbar_handle_horizontal</item>
+        <item name="android:scrollbarThumbVertical">@drawable/nubia_scrollbar_handle_vertical</item>
+        <item name="android:checkboxStyle">@style/Widget.Nubia.CompoundButton.CheckBox</item>
+        <item name="android:editTextStyle">@style/Widget.Nubia.EditText</item>
+        <item name="android:listViewStyle">@style/Widget.Nubia.ListView</item>
+        <item name="android:progressBarStyle">@style/Widget.Nubia.ProgressBar</item>
+        <item name="android:progressBarStyleHorizontal">@style/Widget.Nubia.ProgressBar.Horizontal</item>
+        <item name="android:progressBarStyleSmall">@style/Widget.Nubia.ProgressBar.Small</item>
+        <item name="android:progressBarStyleLarge">@style/Widget.Nubia.ProgressBar.Large</item>
+        <item name="android:seekBarStyle">@style/Widget.Nubia.SeekBar</item>
+        <item name="android:radioButtonStyle">@style/Widget.Nubia.CompoundButton.RadioButton</item>
+        <item name="android:textViewStyle">@style/Widget.Nubia.TextView</item>
+        <item name="android:dropDownItemStyle">@style/Widget.Nubia.DropDownItem</item>
+        <item name="android:preferenceScreenStyle">@style/Preference.Nubia.PreferenceScreen</item>
+        <item name="android:preferenceCategoryStyle">@style/Preference.Nubia.Category</item>
+        <item name="android:preferenceInformationStyle">@style/Preference.Nubia.Information</item>
+        <item name="android:preferenceStyle">@style/Preference.Nubia</item>
+        <item name="android:yesNoPreferenceStyle">@style/Preference.Nubia.DialogPreference</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.Nubia.DialogPreference</item>
+        <item name="android:editTextPreferenceStyle">@style/Preference.Nubia.DialogPreference.EditTextPreference</item>
+        <item name="android:ringtonePreferenceStyle">@style/Preference.Nubia.RingtonePreference</item>
+        <item name="android:preferenceLayoutChild">@layout/nubia_preference_child_holo</item>
+        <item name="android:textColorHighlight">@color/nubia_textview_highlight_color</item>
+        <item name="android:textColorHint">@color/nubia_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/nubia_link_text_material</item>
+        <item name="android:windowAnimationStyle">@style/Animation.Nubia.Activity</item>
+        <item name="android:listSeparatorTextViewStyle">@style/Widget.Nubia.TextView.ListSeparator</item>
+        <item name="android:progressBarStyleSmallTitle">@style/Widget.Nubia.ProgressBar.Small.Title</item>
+        <item name="android:listDivider">@drawable/nubia_list_divider_material</item>
+        <item name="android:listChoiceIndicatorSingle">@drawable/nubia_btn_radio_material_anim</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/nubia_btn_check_material_anim</item>
+        <item name="android:windowSoftInputMode">@null</item>
+        <item name="android:textSelectHandleLeft">@drawable/nubia_text_select_handle_left</item>
+        <item name="android:textSelectHandleRight">@drawable/nubia_text_select_handle_right</item>
+        <item name="android:textSelectHandle">@drawable/nubia_text_select_handle_middle</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:actionModeBackground">@drawable/nubia_ab_solid_light_material</item>
+        <item name="android:actionModeCloseDrawable">@layout/nubia_action_mode_close_item</item>
+        <item name="android:actionBarSize">@dimen/nubia_action_bar_default_height</item>
+        <item name="android:listChoiceBackgroundIndicator">?android:attr/selectableItemBackground</item>
+        <item name="android:actionBarTabTextStyle">@style/Widget.Nubia.ActionBar.TabText</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/nubia_activated_background_holo_light</item>
+        <item name="android:listDividerAlertDialog">?attr/throughDivider</item>
+        <item name="android:alertDialogTheme">@style/Theme.Nubia.Dialog.Alert</item>
+        <item name="android:dividerVertical">?attr/throughDivider</item>
+        <item name="android:homeAsUpIndicator">@drawable/nubia_ic_ab_back_material</item>
+        <item name="android:selectableItemBackground">@drawable/nubia_item_background_material</item>
+        <item name="android:actionModeCutDrawable">@drawable/nubia_ic_menu_cut_material</item>
+        <item name="android:actionModeCopyDrawable">@drawable/nubia_ic_menu_copy_material</item>
+        <item name="android:actionModePasteDrawable">@drawable/nubia_ic_menu_paste_material</item>
+        <item name="android:borderlessButtonStyle">@style/Widget.Nubia.Button.Borderless</item>
+        <item name="android:buttonBarStyle">@style/Nubia.ButtonBar</item>
+        <item name="android:editTextBackground">@drawable/nubia_edit_text_material</item>
+        <item name="android:actionMenuTextAppearance">@style/TextAppearance.Nubia.Widget.ActionBar.Menu</item>
+        <item name="android:actionMenuTextColor">?android:attr/textColorSecondary</item>
+        <item name="android:textCursorDrawable">@drawable/nubia_text_cursor</item>
+        <item name="android:actionModeSelectAllDrawable">@drawable/nubia_ic_menu_selectall_material</item>
+        <item name="android:listPreferredItemHeightLarge">@dimen/nubia_list_preferred_item_height_large</item>
+        <item name="android:listPreferredItemHeightSmall">@dimen/nubia_list_preferred_item_height_small</item>
+        <item name="android:actionBarSplitStyle">@style/Widget.Nubia.actionBarSplit</item>
+        <item name="android:actionModeStyle">@style/Widget.Nubia.ActionMode</item>
+        <item name="android:actionBarItemBackground">@null</item>
+        <item name="android:actionModeSplitBackground">@drawable/nubia_ab_solid_light_material_bottom</item>
+        <item name="android:listPreferredItemPaddingLeft">@dimen/nubia_list_preferred_item_pandding_side</item>
+        <item name="android:listPreferredItemPaddingRight">@dimen/nubia_list_preferred_item_pandding_side</item>
+        <item name="android:listPreferredItemPaddingStart">@dimen/nubia_list_preferred_item_pandding_side</item>
+        <item name="android:listPreferredItemPaddingEnd">@dimen/nubia_list_preferred_item_pandding_side</item>
+        <item name="android:colorControlNormal">@color/nubia_normal_light</item>
+        <item name="android:colorControlActivated">@color/nubia_activated_red</item>
+        <item name="android:colorControlHighlight">@color/nubia_ripple_material_light</item>
+        <item name="android:actionBarTheme">@null</item>
+        <item name="android:actionModeShareDrawable">@drawable/nubia_ic_menu_share_material</item>
+        <item name="android:actionModeWebSearchDrawable">@drawable/nubia_ic_menu_search_material</item>
+        <item name="android:windowLightStatusBar">@bool/nubia_statusbar_text_color</item>
+        <item name="capsuleButtonStyle">@style/CapsuleButtonStyle</item>
+        <item name="circleProgressBarStyle">@style/CircleProgressBarStyle.Normal</item>
+        <item name="circleProgressBarStyleLarge">@style/CircleProgressBarStyle.Large</item>
+        <item name="preferenceCategoryTextColor">@color/nubia_activated_green</item>
+        <item name="preferenceCategoryTextSize">@dimen/nubia_text_size_medium</item>
+        <item name="actionModeCloseTextColor">@color/nubia_text_view_material_light_closed</item>
+        <item name="fakeStatusBarBackground">@android:color/transparent</item>
+        <item name="textAppearanceExtraLarge">@style/TextAppearance.Nubia.ExtraLarge</item>
+        <item name="textAppearanceExtraSmall">@style/TextAppearance.Nubia.ExtraSmall</item>
+        <item name="titleBackgroundWithLine">@android:color/transparent</item>
+        <item name="menuItemBottomStyle">@style/Widget.Nubia.TextView.MenuItemBottom</item>
+        <item name="actionModeTextButtonBackground">@null</item>
+        <item name="colorActivatedRed">@color/nubia_activated_red</item>
+        <item name="colorActivatedGreen">@color/nubia_activated_green</item>
+        <item name="colorActivatedBlue">@color/nubia_activated_blue</item>
+        <item name="colorActivatedYellow">@color/nubia_activated_yellow</item>
+        <item name="colorControlDisabled">@color/nubia_disabled_light</item>
+        <item name="colorControlNormalSecondary">@color/nubia_normal_secondary_light</item>
+        <item name="disabledActivatedAlpha">@dimen/nubia_disabled_activated_alpha_light</item>
+        <item name="isNubiaStyle">true</item>
+        <item name="nubiaSearchViewStyle">@style/Widget.Nubia.NubiaSearchView</item>
+        <item name="nubiaSelectAllStyle">@style/Widget.Nubia.CompoundButton.NubiaSelectAll</item>
+        <item name="nubiaPagerTabStyle">@style/Widget.Nubia.Tab</item>
+        <item name="selectAllBackground">@drawable/nubia_btn_select_all_background</item>
+        <item name="preferenceRightArrow">@drawable/nubia_right_arrow</item>
+        <item name="nubiaPreferenceFragmentStyle">@style/NubiaPreferenceFragment</item>
+        <item name="listPreferredItemHeightSmallSecondary">@dimen/nubia_list_preferred_item_height_small_secondary</item>
+        <item name="listPreferredItemSpace">@dimen/nubia_list_preferred_item_space</item>
+        <item name="listPreferredItemPaddingTop">@dimen/nubia_list_preferred_item_pandding</item>
+        <item name="listPreferredItemPaddingBottom">@dimen/nubia_list_preferred_item_pandding</item>
+        <item name="nubiaSwitchStyle">@style/Widget.Nubia.Switch</item>
+        <item name="buttonLeftBackground">@drawable/nubia_btn_default_material</item>
+        <item name="buttonMiddleBackground">@drawable/nubia_btn_default_material</item>
+        <item name="buttonRightBackground">@drawable/nubia_btn_default_material</item>
+        <item name="seekbarBackgroundColor">@color/nubia_seekbar_background_default_color</item>
+        <item name="isHideActionBarTitle">false</item>
+        <item name="emptyColor">@color/nubia_empty_color</item>
+        <item name="buttonBackground">@drawable/nubia_btn_default_material</item>
+        <item name="dialogActiviyInAnim">@anim/nubia_dialog_activity_open_anim_in</item>
+        <item name="dialogActiviyOutAnim">@anim/nubia_dialog_activity_open_anim_out</item>
+        <item name="alertDialogCenterButtons">false</item>
+        <item name="alertDialogTitleTextAppearance">@style/TextAppearance.Nubia.AlertDialogTitle</item>
+        <item name="dialogButtonTextColor">@color/nubia_dialog_button_text_color</item>
+        <item name="textColorRed">@color/nubia_text_view_material_light_red</item>
+        <item name="textColorGreen">@color/nubia_text_view_material_light_green</item>
+        <item name="shadowDivider">@drawable/nubia_shadow_divider</item>
+        <item name="throughDivider">@drawable/nubia_list_divider_through</item>
+    </style>
+    <style name="Theme.Nubia.Dialog">
+        <item name="android:backgroundDimAmount">0.55</item>
+        <item name="android:textAppearance">@style/TextAppearance.Nubia</item>
+        <item name="android:windowBackground">@drawable/nubia_dialog_background_transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/DialogWindowTitle.Nubia</item>
+        <item name="android:windowAnimationStyle">@style/Animation.NubiaDialog</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateVisible|adjustResize</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:textColorAlertDialogListItem">@color/nubia_primary_text_default_material_light</item>
+        <item name="android:buttonBarStyle">@style/Nubia.ButtonBar.AlertDialog</item>
+        <item name="android:windowCloseOnTouchOutside">@bool/nubia_config_closeDialogWhenTouchOutside</item>
+    </style>
+    <style name="Theme.Nubia.Dialog.Alert">
+    </style>
+    <style name="Theme.Nubia.Dialog.DialogActivity">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="Theme.Nubia.DialogWhenLarge">
+    </style>
+    <style name="Theme.Nubia.DialogWhenLarge.NoActionBar">
+    </style>
+    <style name="Theme.Nubia.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Theme.Nubia.NoActionBar.DialogActivity">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:statusBarColor">@color/nubia_status_bar_color</item>
+    </style>
+    <style name="Theme.Nubia.NoActionBar.Fullscreen">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.Nubia.Tab">
+        <item name="android:actionBarStyle">@style/Widget.Nubia.ActionBar.Tab</item>
+    </style>
+    <style name="Theme.Nubia.Wallpaper">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="Theme.Nubia.Wallpaper.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="UserSettingStyle">
+        <item name="android:layout_width">36dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:layout_marginTop">11dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.Nubia" parent="android:Widget">
+    </style>
+    <style name="Widget.Nubia.ActionBar">
+    </style>
+    <style name="Widget.Nubia.ActionBar.Tab">
+        <item name="android:background">@drawable/nubia_actionbar_tab_bg</item>
+    </style>
+    <style name="Widget.Nubia.ActionBar.TabText">
+        <item name="android:textAppearance">@style/TextAppearance.Nubia.Medium</item>
+    </style>
+    <style name="Widget.Nubia.ActionMode">
+    </style>
+    <style name="Widget.Nubia.Button">
+        <item name="android:textSize">@dimen/nubia_btn_text_size</item>
+        <item name="android:textColor">@color/nubia_button_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:background">@drawable/nubia_btn_default_material</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">nubiafont-medium</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">8dp</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:elegantTextHeight">true</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton">
+        <item name="android:textColor">?attr/dialogButtonTextColor</item>
+        <item name="android:background">@drawable/nubia_bottom_alert_dialog_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.Button.AlertDialogBorderlessButton.Center">
+        <item name="android:background">@drawable/nubia_center_alert_dialog_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.Button.Borderless">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:paddingStart">4dp</item>
+        <item name="android:paddingEnd">4dp</item>
+    </style>
+    <style name="Widget.Nubia.Button.Color1">
+        <item name="android:textColor">@color/nubia_button_text_color</item>
+        <item name="android:background">@drawable/nubia_btn_default_material</item>
+    </style>
+    <style name="Widget.Nubia.CompoundButton">
+    </style>
+    <style name="Widget.Nubia.CompoundButton.CheckBox">
+        <item name="android:button">?android:attr/listChoiceIndicatorMultiple</item>
+    </style>
+    <style name="Widget.Nubia.CompoundButton.NubiaSelectAll">
+        <item name="android:background">@drawable/nubia_btn_select_all_circle_background</item>
+    </style>
+    <style name="Widget.Nubia.CompoundButton.RadioButton">
+        <item name="android:button">?android:attr/listChoiceIndicatorSingle</item>
+    </style>
+    <style name="Widget.Nubia.DropDownItem">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:paddingStart">8dp</item>
+        <item name="android:paddingEnd">8dp</item>
+    </style>
+    <style name="Widget.Nubia.EditText">
+        <item name="android:lineSpacingMultiplier">1.2</item>
+    </style>
+    <style name="Widget.Nubia.GuideButton">
+        <item name="android:textSize">@dimen/nubia_guide_btn_text_size</item>
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:background">@drawable/nubia_guide_btn_default_material</item>
+        <item name="android:maxWidth">@dimen/nubia_guide_btn_max_width</item>
+        <item name="android:minWidth">@dimen/nubia_guide_btn_min_width</item>
+        <item name="android:minHeight">@dimen/nubia_guide_btn_min_height</item>
+        <item name="android:text">@string/nubia_guide_button_text</item>
+        <item name="android:paddingStart">@dimen/nubia_guide_btn_padding_start</item>
+        <item name="android:paddingEnd">@dimen/nubia_guide_btn_padding_end</item>
+    </style>
+    <style name="Widget.Nubia.ListView">
+        <item name="android:listSelector">?android:attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?android:attr/listDivider</item>
+    </style>
+    <style name="Widget.Nubia.NubiaEmptyView">
+        <item name="android:textSize">@dimen/nubia_empty_view_text_size</item>
+        <item name="android:textColor">@color/nubia_emptyview_text_color</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:text">@string/nubia_empty_message</item>
+        <item name="android:drawableTop">@drawable/nubia_empty_icon</item>
+        <item name="android:drawablePadding">17dp</item>
+    </style>
+    <style name="Widget.Nubia.NubiaSearchView">
+        <item name="layout">@layout/nubia_search_view</item>
+        <item name="closeIcon">@drawable/nubia_ic_clear_material</item>
+        <item name="goIcon">@drawable/nubia_ic_go_search_api_material</item>
+        <item name="searchIcon">@drawable/nubia_ic_search_api_material</item>
+        <item name="queryBackground">@drawable/nubia_ic_search_query_background</item>
+        <item name="submitBackground">@null</item>
+    </style>
+    <style name="Widget.Nubia.ProgressBar">
+        <item name="android:maxWidth">@dimen/nubia_progress_dialog_progress_width</item>
+        <item name="android:maxHeight">@dimen/nubia_progress_dialog_progress_height</item>
+        <item name="android:indeterminateDrawable">@drawable/nubia_progress_medium_material</item>
+        <item name="android:minWidth">@dimen/nubia_progress_dialog_progress_width</item>
+        <item name="android:minHeight">@dimen/nubia_progress_dialog_progress_height</item>
+    </style>
+    <style name="Widget.Nubia.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/nubia_progress_horizontal_material</item>
+    </style>
+    <style name="Widget.Nubia.ProgressBar.Large">
+        <item name="android:maxWidth">48dp</item>
+        <item name="android:maxHeight">48dp</item>
+        <item name="android:indeterminateDrawable">@drawable/nubia_progress_large_material</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+    <style name="Widget.Nubia.ProgressBar.Small">
+        <item name="android:maxWidth">24dp</item>
+        <item name="android:maxHeight">24dp</item>
+        <item name="android:indeterminateDrawable">@drawable/nubia_progress_small_material</item>
+        <item name="android:minWidth">24dp</item>
+        <item name="android:minHeight">24dp</item>
+    </style>
+    <style name="Widget.Nubia.ProgressBar.Small.Title">
+    </style>
+    <style name="Widget.Nubia.SeekBar">
+        <item name="android:background">@null</item>
+        <item name="android:indeterminateDrawable">@drawable/nubia_scrubber_progress_horizontal_material</item>
+        <item name="android:progressDrawable">@drawable/nubia_scrubber_progress_horizontal_material</item>
+        <item name="android:thumb">@drawable/nubia_scrubber_control_material_anim</item>
+    </style>
+    <style name="Widget.Nubia.Switch">
+        <item name="android:background">@null</item>
+        <item name="thumb">@drawable/nubia_switch_thumb_material</item>
+        <item name="track">@drawable/nubia_switch_track_material</item>
+        <item name="textOn">@string/nubia_capital_on</item>
+        <item name="textOff">@string/nubia_capital_off</item>
+        <item name="switchTextAppearance">?android:attr/textAppearance</item>
+        <item name="switchMinWidth">46dp</item>
+        <item name="switchMinHight">48dp</item>
+        <item name="showText">false</item>
+    </style>
+    <style name="Widget.Nubia.Tab">
+        <item name="tabTextSize">@dimen/nubia_text_size_medium_no_change</item>
+        <item name="tabActivatedColor">@color/nubia_tab_activated_red</item>
+        <item name="tabNormalColor">@color/nubia_tab_normal_color</item>
+    </style>
+    <style name="Widget.Nubia.TextView">
+        <item name="android:textAppearance">@style/TextViewColorNormal</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+    </style>
+    <style name="Widget.Nubia.TextView.ListSeparator">
+        <item name="android:textSize">@dimen/nubia_text_size_small</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingStart">8dp</item>
+    </style>
+    <style name="Widget.Nubia.TextView.MenuItemBottom">
+        <item name="android:textSize">@dimen/nubia_text_size_extrasmall</item>
+        <item name="android:textColor">@color/nubia_action_menu_item_text_material_light</item>
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:paddingTop">@dimen/nubia_action_bar_menu_item_layout_padding</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/nubia_action_bar_menu_item_layout_width</item>
+        <item name="android:layout_height">@dimen/nubia_action_bar_menu_default_height</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Widget.Nubia.actionBarSplit">
+        <item name="android:height">@dimen/nubia_action_bar_menu_default_height</item>
+    </style>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <style name="WindowTitle">
+    </style>
+    <style name="WindowTitle.Nubia">
+        <item name="android:textAppearance">@style/TextAppearance.Nubia.WindowTitle</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#bb000000</item>
+        <item name="android:shadowRadius">2.75</item>
+    </style>
+    <declare-styleable name="ColorStateListItem">
+        <!-- Base color for this state. -->
+        <attr name="android:color"/>
+        <!-- Alpha multiplier applied to the base color. -->
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable>
+    <declare-styleable name="ConstraintLayout_Layout"><attr name="android:orientation"/><attr name="android:minWidth"/><attr name="android:minHeight"/><attr name="android:maxWidth"/><attr name="android:maxHeight"/><attr name="layout_optimizationLevel"/><attr name="constraintSet"/><attr name="barrierDirection"/><attr name="barrierAllowsGoneWidgets"/><attr name="constraint_referenced_ids"/><attr name="chainUseRtl"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/></declare-styleable>
+    <declare-styleable name="ConstraintLayout_placeholder"><attr name="emptyVisibility"/><attr name="content"/></declare-styleable>
+    <declare-styleable name="ConstraintSet"><attr name="android:orientation"/><attr name="android:id"/><attr name="android:visibility"/><attr name="android:alpha"/><attr name="android:elevation"/><attr name="android:rotation"/><attr name="android:rotationX"/><attr name="android:rotationY"/><attr name="android:scaleX"/><attr name="android:scaleY"/><attr name="android:transformPivotX"/><attr name="android:transformPivotY"/><attr name="android:translationX"/><attr name="android:translationY"/><attr name="android:translationZ"/><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_marginStart"/><attr name="android:layout_marginBottom"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginEnd"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginRight"/><attr name="layout_constraintCircle"/><attr name="layout_constraintCircleRadius"/><attr name="layout_constraintCircleAngle"/><attr name="layout_constraintGuide_begin"/><attr name="layout_constraintGuide_end"/><attr name="layout_constraintGuide_percent"/><attr name="layout_constraintLeft_toLeftOf"/><attr name="layout_constraintLeft_toRightOf"/><attr name="layout_constraintRight_toLeftOf"/><attr name="layout_constraintRight_toRightOf"/><attr name="layout_constraintTop_toTopOf"/><attr name="layout_constraintTop_toBottomOf"/><attr name="layout_constraintBottom_toTopOf"/><attr name="layout_constraintBottom_toBottomOf"/><attr name="layout_constraintBaseline_toBaselineOf"/><attr name="layout_constraintStart_toEndOf"/><attr name="layout_constraintStart_toStartOf"/><attr name="layout_constraintEnd_toStartOf"/><attr name="layout_constraintEnd_toEndOf"/><attr name="layout_goneMarginLeft"/><attr name="layout_goneMarginTop"/><attr name="layout_goneMarginRight"/><attr name="layout_goneMarginBottom"/><attr name="layout_goneMarginStart"/><attr name="layout_goneMarginEnd"/><attr name="layout_constrainedWidth"/><attr name="layout_constrainedHeight"/><attr name="layout_constraintHorizontal_bias"/><attr name="layout_constraintVertical_bias"/><attr name="layout_constraintWidth_default"/><attr name="layout_constraintHeight_default"/><attr name="layout_constraintWidth_min"/><attr name="layout_constraintWidth_max"/><attr name="layout_constraintWidth_percent"/><attr name="layout_constraintHeight_min"/><attr name="layout_constraintHeight_max"/><attr name="layout_constraintHeight_percent"/><attr name="layout_constraintLeft_creator"/><attr name="layout_constraintTop_creator"/><attr name="layout_constraintRight_creator"/><attr name="layout_constraintBottom_creator"/><attr name="layout_constraintBaseline_creator"/><attr name="layout_constraintDimensionRatio"/><attr name="layout_constraintHorizontal_weight"/><attr name="layout_constraintVertical_weight"/><attr name="layout_constraintHorizontal_chainStyle"/><attr name="layout_constraintVertical_chainStyle"/><attr name="layout_editor_absoluteX"/><attr name="layout_editor_absoluteY"/><attr name="barrierDirection"/><attr name="constraint_referenced_ids"/><attr name="android:maxHeight"/><attr name="android:maxWidth"/><attr name="android:minHeight"/><attr name="android:minWidth"/><attr name="barrierAllowsGoneWidgets"/><attr name="chainUseRtl"/></declare-styleable>
+    <declare-styleable name="CoordinatorLayout">
+        <!-- A reference to an array of integers representing the
+             locations of horizontal keylines in dp from the starting edge.
+             Child views can refer to these keylines for alignment using
+             layout_keyline="index" where index is a 0-based index into
+             this array. -->
+        <attr format="reference" name="keylines"/>
+        <!-- Drawable to display behind the status bar when the view is set to draw behind it. -->
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        <!-- The class name of a Behavior class defining special runtime behavior
+             for this child view. -->
+        <attr format="string" name="layout_behavior"/>
+        <!-- The id of an anchor view that this view should position relative to. -->
+        <attr format="reference" name="layout_anchor"/>
+        <!-- The index of a keyline this view should position relative to.
+             android:layout_gravity will affect how the view aligns to the
+             specified keyline. -->
+        <attr format="integer" name="layout_keyline"/>
+
+        <!-- Specifies how an object should position relative to an anchor, on both the X and Y axes,
+             within its parent's bounds.  -->
+        <attr name="layout_anchorGravity">
+            <!-- Push object to the top of its container, not changing its size. -->
+            <flag name="top" value="0x30"/>
+            <!-- Push object to the bottom of its container, not changing its size. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Push object to the left of its container, not changing its size. -->
+            <flag name="left" value="0x03"/>
+            <!-- Push object to the right of its container, not changing its size. -->
+            <flag name="right" value="0x05"/>
+            <!-- Place object in the vertical center of its container, not changing its size. -->
+            <flag name="center_vertical" value="0x10"/>
+            <!-- Grow the vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill_vertical" value="0x70"/>
+            <!-- Place object in the horizontal center of its container, not changing its size. -->
+            <flag name="center_horizontal" value="0x01"/>
+            <!-- Grow the horizontal size of the object if needed so it completely fills its container. -->
+            <flag name="fill_horizontal" value="0x07"/>
+            <!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+            <flag name="center" value="0x11"/>
+            <!-- Grow the horizontal and vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill" value="0x77"/>
+            <!-- Additional option that can be set to have the top and/or bottom edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the vertical gravity: a top gravity will clip the bottom
+                 edge, a bottom gravity will clip the top edge, and neither will clip both edges. -->
+            <flag name="clip_vertical" value="0x80"/>
+            <!-- Additional option that can be set to have the left and/or right edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the horizontal gravity: a left gravity will clip the right
+                 edge, a right gravity will clip the left edge, and neither will clip both edges. -->
+            <flag name="clip_horizontal" value="0x08"/>
+            <!-- Push object to the beginning of its container, not changing its size. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Push object to the end of its container, not changing its size. -->
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        <!-- Specifies how this view insets the CoordinatorLayout and make some other views
+             dodge it. -->
+        <attr format="enum" name="layout_insetEdge">
+            <!-- Don't inset. -->
+            <enum name="none" value="0x0"/>
+            <!-- Inset the top edge. -->
+            <enum name="top" value="0x30"/>
+            <!-- Inset the bottom edge. -->
+            <enum name="bottom" value="0x50"/>
+            <!-- Inset the left edge. -->
+            <enum name="left" value="0x03"/>
+            <!-- Inset the right edge. -->
+            <enum name="right" value="0x05"/>
+            <!-- Inset the start edge. -->
+            <enum name="start" value="0x00800003"/>
+            <!-- Inset the end edge. -->
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        <!-- Specifies how this view dodges the inset edges of the CoordinatorLayout. -->
+        <attr name="layout_dodgeInsetEdges">
+            <!-- Don't dodge any edges -->
+            <flag name="none" value="0x0"/>
+            <!-- Dodge the top inset edge. -->
+            <flag name="top" value="0x30"/>
+            <!-- Dodge the bottom inset edge. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Dodge the left inset edge. -->
+            <flag name="left" value="0x03"/>
+            <!-- Dodge the right inset edge. -->
+            <flag name="right" value="0x05"/>
+            <!-- Dodge the start inset edge. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Dodge the end inset edge. -->
+            <flag name="end" value="0x00800005"/>
+            <!-- Dodge all the inset edges. -->
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamily">
+        <!-- The authority of the Font Provider to be used for the request. -->
+        <attr format="string" name="fontProviderAuthority"/>
+        <!-- The package for the Font Provider to be used for the request. This is used to verify
+        the identity of the provider. -->
+        <attr format="string" name="fontProviderPackage"/>
+        <!-- The query to be sent over to the provider. Refer to your font provider's documentation
+        on the format of this string. -->
+        <attr format="string" name="fontProviderQuery"/>
+        <!-- The sets of hashes for the certificates the provider should be signed with. This is
+        used to verify the identity of the provider, and is only required if the provider is not
+        part of the system image. This value may point to one list or a list of lists, where each
+        individual list represents one collection of signature hashes. Refer to your font provider's
+        documentation for these values. -->
+        <attr format="reference" name="fontProviderCerts"/>
+        <!-- The strategy to be used when fetching font data from a font provider in XML layouts.
+        This attribute is ignored when the resource is loaded from code, as it is equivalent to the
+        choice of API between {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int)} (blocking) and
+        {@link
+    androidx.core.content.res.ResourcesCompat#getFont(Context, int, FontCallback, Handler)}
+        (async). -->
+        <attr name="fontProviderFetchStrategy">
+            <!-- The blocking font fetch works as follows.
+              First, check the local cache, then if the requested font is not cached, request the
+              font from the provider and wait until it is finished.  You can change the length of
+              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
+              default typeface will be used instead. -->
+            <enum name="blocking" value="0"/>
+            <!-- The async font fetch works as follows.
+              First, check the local cache, then if the requeted font is not cached, trigger a
+              request the font and continue with layout inflation. Once the font fetch succeeds, the
+              target text view will be refreshed with the downloaded font data. The
+              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            <enum name="async" value="1"/>
+        </attr>
+        <!-- The length of the timeout during fetching. -->
+        <attr format="integer" name="fontProviderFetchTimeout">
+            <!-- A special value for the timeout. In this case, the blocking font fetching will not
+              timeout and wait until a reply is received from the font provider. -->
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamilyFont">
+        <!-- The style of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any style information in the font's header tables. If
+         unspecified, the value in the font's header tables will be used. -->
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        <!-- The reference to the font file to be used. This should be a file in the res/font folder
+         and should therefore have an R reference value. E.g. @font/myfont -->
+        <attr format="reference" name="font"/>
+        <!-- The weight of the given font file. This will be used when the font is being loaded into
+         the font stack and will override any weight information in the font's header tables. Must
+         be a positive number, a multiple of 100, and between 100 and 900, inclusive. The most
+         common values are 400 for regular weight and 700 for bold weight. If unspecified, the value
+         in the font's header tables will be used. -->
+        <attr format="integer" name="fontWeight"/>
+        <!-- The variation settings to be applied to the font. The string should be in the following
+         format: "'tag1' value1, 'tag2' value2, ...". If the default variation settings should be
+         used, or the font used does not support variation settings, this attribute needs not be
+         specified. -->
+        <attr format="string" name="fontVariationSettings"/>
+        <!-- The index of the font in the tcc font file. If the font file referenced is not in the
+        tcc format, this attribute needs not be specified. -->
+        <attr format="integer" name="ttcIndex"/>
+        <!-- References to the framework attrs -->
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColor">
+        <!-- Start color of the gradient. -->
+        <attr name="android:startColor"/>
+        <!-- Optional center color. -->
+        <attr name="android:centerColor"/>
+        <!-- End color of the gradient. -->
+        <attr name="android:endColor"/>
+        <!-- Type of gradient. The default type is linear. -->
+        <attr name="android:type"/>
+
+        <!-- Only applied to RadialGradient-->
+        <!-- Radius of the gradient, used only with radial gradient. -->
+        <attr name="android:gradientRadius"/>
+
+        <!-- Only applied to SweepGradient / RadialGradient-->
+        <!-- X coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerX"/>
+        <!-- Y coordinate of the center of the gradient within the path. -->
+        <attr name="android:centerY"/>
+
+        <!-- LinearGradient specific -->
+        <!-- X coordinate of the start point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startX"/>
+        <!-- Y coordinate of the start point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:startY"/>
+        <!-- X coordinate of the end point origin of the gradient.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endX"/>
+        <!-- Y coordinate of the end point of the gradient within the shape.
+             Defined in same coordinates as the path itself -->
+        <attr name="android:endY"/>
+
+        <!-- Defines the tile mode of the gradient. SweepGradient doesn't support tiling. -->
+        <attr name="android:tileMode"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColorItem">
+        <!-- The offset (or ratio) of this current color item inside the gradient.
+             The value is only meaningful when it is between 0 and 1. -->
+        <attr name="android:offset"/>
+        <!-- The current color for the offset inside the gradient. -->
+        <attr name="android:color"/>
+    </declare-styleable>
+    <declare-styleable name="LinearConstraintLayout"><attr name="android:orientation"/></declare-styleable>
+    <declare-styleable name="RecyclerView">
+        <!-- Class name of the Layout Manager to be used.
+        <p/>
+        The class must ext androidx.recyclerview.widget.RecyclerViewView$LayoutManager
+        and have either a default constructor or constructor with the signature
+        (android.content.Context, android.util.AttributeSet, int, int).
+         <p/>
+         If the name starts with a '.', application package is prefixed.
+         Else, if the name contains a '.', the classname is assumed to be a full class name.
+         Else, the recycler view package naandroidx.appcompat.widgetdget) is prefixed. -->
+        <attr format="string" name="layoutManager"/>
+
+        <!-- ============================= -->
+        <!-- Attributes for Layout Manager -->
+        <!-- ============================= -->
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="android:descendantFocusability"/>
+        <attr name="android:clipToPadding"/>
+        <attr format="integer" name="spanCount"/>
+        <attr format="boolean" name="reverseLayout"/>
+        <attr format="boolean" name="stackFromEnd"/>
+        <attr format="boolean" name="fastScrollEnabled"/>
+        <attr format="reference" name="fastScrollVerticalThumbDrawable"/>
+        <attr format="reference" name="fastScrollVerticalTrackDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
+    </declare-styleable>
+    <declare-styleable name="SelectableImageView">
+    <attr format="reference" name="bg">
+    </attr>
+    <attr format="boolean" name="selected">
+    </attr>
+    <attr format="string" name="text">
+    </attr>
+    </declare-styleable>
+</resources>

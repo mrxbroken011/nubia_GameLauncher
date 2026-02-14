@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nubia_months_full">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mac</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Julai</item>
+        <item>Ogos</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Disember</item>
+    </array>
+    <array name="nubia_months_short">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mac</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Julai</item>
+        <item>Ogos</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Disember</item>
+    </array>
+    <array name="nubia_weeks_full">
+        <item>Ahad</item>
+        <item>Isn</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Khamis</item>
+        <item>Jumaat</item>
+        <item>Sabtu</item>
+    </array>
+    <array name="nubia_weeks_short">
+        <item>Aha</item>
+        <item>Isn</item>
+        <item>Selasa</item>
+        <item>Rab</item>
+        <item>Kha</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </array>
+    <string name="action_bar_home_description">Navigasi utama</string>
+    <string name="action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="action_bar_up_description">Navigasi ke atas</string>
+    <string name="nubia_activity_resolver_use_always">Sentiasa</string>
+    <string name="nubia_activity_resolver_use_once">Hanya sekali</string>
+    <string name="nubia_app_name">nubia Sumber Biasa</string>
+    <string name="nubia_back_button_label">Kembali</string>
+    <string name="nubia_capital_off">TUTUP</string>
+    <string name="nubia_capital_on">BUKA</string>
+    <string name="nubia_common_label">nubia</string>
+    <string name="nubia_common_versionName">V2.0.3</string>
+    <string name="nubia_date_day">hari</string>
+    <string name="nubia_date_month">bulan</string>
+    <string name="nubia_date_year">tahun</string>
+    <string name="nubia_download">Muat turun</string>
+    <string name="nubia_eight">8</string>
+    <string name="nubia_empty_message">Kandungan kosong</string>
+    <string name="nubia_five">5</string>
+    <string name="nubia_four">4</string>
+    <string name="nubia_leap">lompat</string>
+    <string name="nubia_lunar">Kalendar Lunar</string>
+    <string name="nubia_lunar_eleventh_month">Lunar November</string>
+    <string name="nubia_lunar_first_day">Pertama</string>
+    <string name="nubia_lunar_first_month">Lunar Januari</string>
+    <string name="nubia_lunar_twelveth_month">Lunar Disember</string>
+    <string name="nubia_lunar_twentieth_day">dua puluh</string>
+    <string name="nubia_more_popup_text">Lebih</string>
+    <string name="nubia_next_button_label">Seterusnya</string>
+    <string name="nubia_nine">9</string>
+    <string name="nubia_notification_hour_time">%d jam yang lalu</string>
+    <string name="nubia_notification_hours_minutes_time">Jam %d dan %d minit yang lalu</string>
+    <string name="nubia_notification_hours_one_minute_time">%d jam dan 1 minit yang lalu</string>
+    <string name="nubia_notification_minutes_time">%d minit yang lalu</string>
+    <string name="nubia_notification_one_hours_minutes_time">1 jam dan %d minit yang lalu</string>
+    <string name="nubia_notification_time_just_now">Sebentar tadi</string>
+    <string name="nubia_notification_time_one_hour">1 jam yang lalu</string>
+    <string name="nubia_notification_time_one_hour_one_minute">1 jam dan 1 minit yang lalu</string>
+    <string name="nubia_notification_time_one_minute">1 minit yang lalu</string>
+    <string name="nubia_one">1</string>
+    <string name="nubia_searchview_description_clear">Pertanyaan yang jelas</string>
+    <string name="nubia_searchview_description_submit">Kemukakan soalan</string>
+    <string name="nubia_searchview_description_voice">Carian suara</string>
+    <string name="nubia_select">Pilih</string>
+    <string name="nubia_setting_date">Tetapkan tarikh</string>
+    <string name="nubia_seven">7</string>
+    <string name="nubia_six">6</string>
+    <string name="nubia_skip_button_label">Langkau</string>
+    <string name="nubia_ten">10</string>
+    <string name="nubia_text_copied">Teks disalin ke clipboard.</string>
+    <string name="nubia_text_pastelist">Papan klip</string>
+    <string name="nubia_three">3</string>
+    <string name="nubia_time_am">PG</string>
+    <string name="nubia_time_am_upper">PG</string>
+    <string name="nubia_time_hour">jam</string>
+    <string name="nubia_time_minute">minit</string>
+    <string name="nubia_time_picker_dialog_title">Tetapkan masa</string>
+    <string name="nubia_time_pm">PTG</string>
+    <string name="nubia_time_pm_upper">PTG</string>
+    <string name="nubia_total_text">sejumlah %s</string>
+    <string name="nubia_two">2</string>
+    <string name="nubia_week">minggu</string>
+    <string name="nubia_zero">0</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

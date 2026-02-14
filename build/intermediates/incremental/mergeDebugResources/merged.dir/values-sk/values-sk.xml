@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nubia_months_full">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+    <array name="nubia_months_short">
+        <item>Jan.</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apr.</item>
+        <item>Máj.</item>
+        <item>Jún.</item>
+        <item>Júl.</item>
+        <item>Aug.</item>
+        <item>Sep.</item>
+        <item>Október</item>
+        <item>Nov.</item>
+        <item>Dec.</item>
+    </array>
+    <array name="nubia_weeks_full">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>piatok</item>
+        <item>Sobota</item>
+    </array>
+    <array name="nubia_weeks_short">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pi</item>
+        <item>So</item>
+    </array>
+    <string name="action_bar_home_description">Navigovať domov</string>
+    <string name="action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="action_bar_up_description">Navigovať hore</string>
+    <string name="nubia_activity_resolver_use_always">Vždy</string>
+    <string name="nubia_activity_resolver_use_once">Len raz</string>
+    <string name="nubia_app_name">Nubia Common Resources</string>
+    <string name="nubia_back_button_label">Späť</string>
+    <string name="nubia_capital_off">Vypnuté</string>
+    <string name="nubia_capital_on">Zapnuté</string>
+    <string name="nubia_common_label">nubia</string>
+    <string name="nubia_common_versionName">V2.0.3</string>
+    <string name="nubia_date_day">Deň:</string>
+    <string name="nubia_date_month">Mesiac</string>
+    <string name="nubia_date_year">Rok</string>
+    <string name="nubia_download">Stiahnuť</string>
+    <string name="nubia_eight">8</string>
+    <string name="nubia_empty_message">Obsah je prázdny</string>
+    <string name="nubia_five">5</string>
+    <string name="nubia_four">4</string>
+    <string name="nubia_leap">preskočiť</string>
+    <string name="nubia_lunar">Lunárny kalendár</string>
+    <string name="nubia_lunar_eleventh_month">Lunárny november</string>
+    <string name="nubia_lunar_first_day">Prvý</string>
+    <string name="nubia_lunar_first_month">Lunárny január</string>
+    <string name="nubia_lunar_twelveth_month">Lunárny december</string>
+    <string name="nubia_lunar_twentieth_day">dvadsať</string>
+    <string name="nubia_more_popup_text">Zrušiť</string>
+    <string name="nubia_next_button_label">Ďalej</string>
+    <string name="nubia_nine">9</string>
+    <string name="nubia_notification_hour_time">pred %d hodinami</string>
+    <string name="nubia_notification_hours_minutes_time">Pred %d hodinami a %d minútami</string>
+    <string name="nubia_notification_hours_one_minute_time">Pred %d hodinami a 1 minútou</string>
+    <string name="nubia_notification_minutes_time">pred %d minútami</string>
+    <string name="nubia_notification_one_hours_minutes_time">Pre hodinou a %d minútami</string>
+    <string name="nubia_notification_time_just_now">Len teraz</string>
+    <string name="nubia_notification_time_one_hour">Pred hodinou</string>
+    <string name="nubia_notification_time_one_hour_one_minute">Pre hodinou a 1 minútou</string>
+    <string name="nubia_notification_time_one_minute">Pred minútou</string>
+    <string name="nubia_one">1</string>
+    <string name="nubia_searchview_description_clear">Vyčistiť dotaz</string>
+    <string name="nubia_searchview_description_submit">Odoslať otázku</string>
+    <string name="nubia_searchview_description_voice">Hlasové vyhľadávanie</string>
+    <string name="nubia_select">Vybrať</string>
+    <string name="nubia_setting_date">Nastaviť dátum</string>
+    <string name="nubia_seven">7</string>
+    <string name="nubia_six">6</string>
+    <string name="nubia_skip_button_label">Preskočiť</string>
+    <string name="nubia_ten">10</string>
+    <string name="nubia_text_copied">Text skopírovaný do schránky systému</string>
+    <string name="nubia_text_pastelist">Schránka</string>
+    <string name="nubia_three">3</string>
+    <string name="nubia_time_am">Predp.</string>
+    <string name="nubia_time_am_upper">Predp.</string>
+    <string name="nubia_time_hour">hodina</string>
+    <string name="nubia_time_minute">minúta</string>
+    <string name="nubia_time_picker_dialog_title">Nastaviť čas</string>
+    <string name="nubia_time_pm">pop.</string>
+    <string name="nubia_time_pm_upper">pop.</string>
+    <string name="nubia_total_text">celkom %s</string>
+    <string name="nubia_two">2</string>
+    <string name="nubia_week">týždeň</string>
+    <string name="nubia_zero">0</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
