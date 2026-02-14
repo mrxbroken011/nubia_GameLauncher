@@ -1,18 +1,20 @@
 buildscript {
     repositories {
         google()
+        mavenCentral() // Added this
         jcenter()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.6.3'
     }
 }
+
 apply plugin: 'com.android.application'
 
 repositories {
-    mavenCentral()
-    jcenter()
     google()
+    mavenCentral() // Moved this up
+    jcenter()
 }
 
 android {
